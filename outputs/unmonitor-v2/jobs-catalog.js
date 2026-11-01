@@ -11964,6 +11964,60 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "285818",
+      "title": "News writing / Multimedia production - Public Information Intern - News and Content - Arabic",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-01",
+      "url": "https://careers.un.org/jobSearchDescription/285818?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: NEW YORK. Title signal: News writing / Multimedia production - Public Information Intern - News and Content - Arabic.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "285819",
+      "title": "News Writing / Reporting - Public Information Intern - News and Content - Russian",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-01",
+      "url": "https://careers.un.org/jobSearchDescription/285819?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: NEW YORK. Title signal: News Writing / Reporting - Public Information Intern - News and Content - Russian.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
       "id": "285840",
       "title": "IASC Secretariat Intern",
       "organization": "UN Careers",
@@ -16185,7 +16239,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-03",
+      "postedDate": "2026-11-01",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Office-of-the-Director-General/1348534057/",
       "tags": [
         "programme"
@@ -16211,7 +16265,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-03",
+      "postedDate": "2026-11-01",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Priority-Africa-and-External-Relations/1348535957/",
       "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: UNESCO. Location: Multiple, Multiple. Title signal: INTERNSHIP: Priority Africa and External Relations.",
       "responsibilities": [
@@ -16234,7 +16288,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-03",
+      "postedDate": "2026-11-01",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Sciences/1348537457/",
       "tags": [
         "programme"
@@ -16781,7 +16835,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Dar Es Salaam, Tanzania",
       "continent": "Remote / Global",
       "deadline": "2026-11-03",
-      "postedDate": "2026-10-23",
+      "postedDate": "2026-10-22",
       "url": "https://unhcr.wd3.myworkdayjobs.com/External/job/Dar-Es-Salaam-Tanzania/Administration-Intern_JR2668974",
       "tags": [
         "finance"
@@ -16807,7 +16861,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Dar Es Salaam, Tanzania",
       "continent": "Remote / Global",
       "deadline": "2026-11-03",
-      "postedDate": "2026-10-23",
+      "postedDate": "2026-10-22",
       "url": "https://unhcr.wd3.myworkdayjobs.com/External/job/Dar-Es-Salaam-Tanzania/Administration-Intern_JR2668975",
       "tags": [
         "finance"
@@ -16833,7 +16887,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Dar Es Salaam, Tanzania",
       "continent": "Remote / Global",
       "deadline": "2026-11-03",
-      "postedDate": "2026-10-23",
+      "postedDate": "2026-10-22",
       "url": "https://unhcr.wd3.myworkdayjobs.com/External/job/Dar-Es-Salaam-Tanzania/Administration-Intern_JR2668976",
       "tags": [
         "finance"
@@ -16848,6 +16902,32 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Organization, attention to detail, Excel, and documentation skills.",
         "Interest in operations, finance, HR, compliance, administration, or procurement.",
         "Ability to work carefully with procedures and records."
+      ]
+    },
+    {
+      "id": "UNHCR-JR2669013",
+      "title": "PSP Digital and Comms Intern",
+      "organization": "UNHCR",
+      "source": "UNHCR",
+      "category": "Tech & Digital",
+      "location": "Kuala Lumpur, Malaysia",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-12",
+      "postedDate": "2026-10-30",
+      "url": "https://unhcr.wd3.myworkdayjobs.com/External/job/Kuala-Lumpur-Malaysia/PSP-Digital-and-Comms-Intern_JR2669013-1",
+      "tags": [
+        "digital"
+      ],
+      "summary": "Technical or digital role supporting software, ICT, digital transformation, AI, GIS, or technology-enabled workflows. Source: UNHCR. Location: Kuala Lumpur, Malaysia. Title signal: PSP Digital and Comms Intern.",
+      "responsibilities": [
+        "Support digital tools, systems, prototypes, or technical documentation.",
+        "Assist with requirements gathering, testing, implementation support, or workflow mapping.",
+        "Contribute to technology-enabled analysis, automation, or knowledge products."
+      ],
+      "requirements": [
+        "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
+        "Relevant software, web, database, GIS, or ICT skills.",
+        "Ability to explain technical work clearly to non-technical stakeholders."
       ]
     },
     {
@@ -20004,7 +20084,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Bridgetown, Barbados",
       "continent": "Remote / Global",
       "deadline": "2026-11-02",
-      "postedDate": "2026-10-16",
+      "postedDate": "2026-10-15",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "data",
@@ -20111,7 +20191,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Bridgetown, Barbados",
       "continent": "Remote / Global",
       "deadline": "2026-11-02",
-      "postedDate": "2026-10-16",
+      "postedDate": "2026-10-15",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "communications",
@@ -20164,7 +20244,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Beijing, China",
       "continent": "Asia",
       "deadline": "2026-11-06",
-      "postedDate": "2026-10-22",
+      "postedDate": "2026-10-21",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "programme"
@@ -20190,7 +20270,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Beijing, China",
       "continent": "Asia",
       "deadline": "2026-11-06",
-      "postedDate": "2026-10-22",
+      "postedDate": "2026-10-21",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "policy",
@@ -20217,7 +20297,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Rome, Italy",
       "continent": "Europe",
       "deadline": "2026-11-04",
-      "postedDate": "2026-10-22",
+      "postedDate": "2026-10-21",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "programme"
@@ -20269,7 +20349,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "London, United Kingdom",
       "continent": "Remote / Global",
       "deadline": "2026-11-08",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-10-23",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "communications",
