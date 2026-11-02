@@ -11239,6 +11239,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "285308",
+      "title": "Data analytics internship in the UPR Branch",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Data & Analytics",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-19",
+      "postedDate": "2026-11-02",
+      "url": "https://careers.un.org/jobSearchDescription/285308?language=en",
+      "tags": [
+        "data"
+      ],
+      "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: GENEVA. Title signal: Data analytics internship in the UPR Branch.",
+      "responsibilities": [
+        "Clean, organize, and analyze datasets or monitoring information.",
+        "Support dashboards, indicators, visualizations, reports, or information-management products.",
+        "Document data workflows and help teams use evidence for decision-making."
+      ],
+      "requirements": [
+        "Experience with Excel and ideally Python, SQL, R, Power BI, Tableau, GIS, or similar tools.",
+        "Comfort with data cleaning, structured analysis, and documentation.",
+        "Ability to translate data into clear written or visual outputs."
+      ]
+    },
+    {
       "id": "285322",
       "title": "Intern in Banjul, Gambia (several positons)",
       "organization": "UN Careers",
@@ -14002,6 +14028,29 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
         "Relevant software, web, database, GIS, or ICT skills.",
         "Ability to explain technical work clearly to non-technical stakeholders."
+      ]
+    },
+    {
+      "id": "286893",
+      "title": "Economic Affairs Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Economics & Development",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-11-12",
+      "postedDate": "2026-11-02",
+      "url": "https://careers.un.org/jobSearchDescription/286893?language=en",
+      "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: NEW YORK. Title signal: Economic Affairs Intern.",
+      "responsibilities": [
+        "Support policy research, background notes, and evidence synthesis.",
+        "Analyze programme, economic, budget, or development information for team outputs.",
+        "Prepare short written products such as briefs, talking points, tables, and presentations."
+      ],
+      "requirements": [
+        "Background in economics, public policy, development, social sciences, or a related field.",
+        "Strong research, writing, Excel, and analytical skills.",
+        "Interest in UN development priorities and sustainable development issues."
       ]
     },
     {
@@ -16835,7 +16884,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Dar Es Salaam, Tanzania",
       "continent": "Remote / Global",
       "deadline": "2026-11-03",
-      "postedDate": "2026-10-22",
+      "postedDate": "2026-10-23",
       "url": "https://unhcr.wd3.myworkdayjobs.com/External/job/Dar-Es-Salaam-Tanzania/Administration-Intern_JR2668974",
       "tags": [
         "finance"
@@ -16861,7 +16910,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Dar Es Salaam, Tanzania",
       "continent": "Remote / Global",
       "deadline": "2026-11-03",
-      "postedDate": "2026-10-22",
+      "postedDate": "2026-10-23",
       "url": "https://unhcr.wd3.myworkdayjobs.com/External/job/Dar-Es-Salaam-Tanzania/Administration-Intern_JR2668975",
       "tags": [
         "finance"
@@ -16887,7 +16936,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Dar Es Salaam, Tanzania",
       "continent": "Remote / Global",
       "deadline": "2026-11-03",
-      "postedDate": "2026-10-22",
+      "postedDate": "2026-10-23",
       "url": "https://unhcr.wd3.myworkdayjobs.com/External/job/Dar-Es-Salaam-Tanzania/Administration-Intern_JR2668976",
       "tags": [
         "finance"
@@ -16913,7 +16962,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Kuala Lumpur, Malaysia",
       "continent": "Remote / Global",
       "deadline": "2026-11-12",
-      "postedDate": "2026-10-30",
+      "postedDate": "2026-10-31",
       "url": "https://unhcr.wd3.myworkdayjobs.com/External/job/Kuala-Lumpur-Malaysia/PSP-Digital-and-Comms-Intern_JR2669013-1",
       "tags": [
         "digital"
@@ -20084,7 +20133,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Bridgetown, Barbados",
       "continent": "Remote / Global",
       "deadline": "2026-11-02",
-      "postedDate": "2026-10-15",
+      "postedDate": "2026-10-16",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "data",
@@ -20191,7 +20240,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Bridgetown, Barbados",
       "continent": "Remote / Global",
       "deadline": "2026-11-02",
-      "postedDate": "2026-10-15",
+      "postedDate": "2026-10-16",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "communications",
@@ -20244,7 +20293,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Beijing, China",
       "continent": "Asia",
       "deadline": "2026-11-06",
-      "postedDate": "2026-10-21",
+      "postedDate": "2026-10-22",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "programme"
@@ -20270,7 +20319,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Beijing, China",
       "continent": "Asia",
       "deadline": "2026-11-06",
-      "postedDate": "2026-10-21",
+      "postedDate": "2026-10-22",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "policy",
@@ -20297,7 +20346,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Rome, Italy",
       "continent": "Europe",
       "deadline": "2026-11-04",
-      "postedDate": "2026-10-21",
+      "postedDate": "2026-10-22",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "programme"
@@ -20349,7 +20398,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "London, United Kingdom",
       "continent": "Remote / Global",
       "deadline": "2026-11-08",
-      "postedDate": "2026-10-23",
+      "postedDate": "2026-10-24",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "communications",
