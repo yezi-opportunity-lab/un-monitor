@@ -43,7 +43,7 @@ const submittedStatuses = dashboardStatuses.filter((status) => !["found", "saved
 const now = new Date();
 const today = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 12, 0, 0);
 const unicefSearchUrl = "https://jobs.unicef.org/en-us/search/?search-keyword=internship";
-const productionAppUrl = "https://yekexin512-web.github.io/un-monitor/outputs/unmonitor-v2/";
+const productionAppUrl = "https://yezi-opportunity-lab.github.io/un-monitor/";
 const legacyStateKey = "unmonitor-v2-state";
 const localStateKey = "unmonitor-v2-local-state";
 const localStateVersion = 2;

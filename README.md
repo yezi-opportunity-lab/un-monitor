@@ -41,14 +41,13 @@ After pushing to GitHub:
 The workflow runs every day at 01:00 UTC (09:00 Beijing time), refreshes
 `jobs-data.js`, and stages the website in `_site` before deploying it.
 
-The published layout preserves `outputs/unmonitor-v2/`:
+The app is published at the repository root while the previous nested path remains available for compatibility:
 
-- `https://yekexin512-web.github.io/un-monitor/` redirects to the app.
-- `https://yekexin512-web.github.io/un-monitor/outputs/unmonitor-v2/` serves the app.
+- `https://yezi-opportunity-lab.github.io/un-monitor/` serves the app directly.
+- `https://yezi-opportunity-lab.github.io/un-monitor/outputs/unmonitor-v2/` remains available for old bookmarks.
 
-The redirect preserves query parameters and URL fragments for Supabase login
-callbacks. Uploading only the contents of `outputs/unmonitor-v2` as the Pages
-artifact would remove this subdirectory and break existing links and callbacks.
+The root deployment keeps Supabase login callbacks on the short public URL.
+The nested copy prevents existing bookmarks from breaking during the transition.
 
 ## Optional Multi-User Dashboard
 

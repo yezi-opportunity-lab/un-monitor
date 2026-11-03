@@ -63,16 +63,16 @@ Use the deployed GitHub Pages app URL, including the final slash:
 
 ```text
 Site URL:
-https://yekexin512-web.github.io/un-monitor/outputs/unmonitor-v2/
+https://yezi-opportunity-lab.github.io/un-monitor/
 ```
 
 Add the same URL to allowed redirect URLs:
 
 ```text
-https://yekexin512-web.github.io/un-monitor/outputs/unmonitor-v2/
+https://yezi-opportunity-lab.github.io/un-monitor/
 ```
 
-If the URL is missing `/outputs/unmonitor-v2/` or the final slash, the email link can land on a GitHub Pages `404 Not Found` page.
+Keep the final slash so the email link returns to the published application root.
 
 ## Data Model
 

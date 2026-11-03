@@ -62,7 +62,7 @@ jobs:
         shell: bash
         run: |
           mkdir -p _site/outputs/unmonitor-v2
-          cp index.html _site/index.html
+          cp -R outputs/unmonitor-v2/. _site/
           cp -R outputs/unmonitor-v2/. _site/outputs/unmonitor-v2/
 
       - name: Upload static site
