@@ -14445,6 +14445,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287300",
+      "title": "Human Rights Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Legal & Human Rights",
+      "location": "PHNOM-PENH",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-29",
+      "postedDate": "2026-11-02",
+      "url": "https://careers.un.org/jobSearchDescription/287300?language=en",
+      "tags": [
+        "legal"
+      ],
+      "summary": "Legal, governance, or human-rights role focused on research, analysis, documentation, and support to legal/policy teams. Source: UN Careers. Location: PHNOM-PENH. Title signal: Human Rights Intern.",
+      "responsibilities": [
+        "Conduct legal, governance, or human-rights desk research.",
+        "Summarize documents, cases, policies, or country developments.",
+        "Support reports, briefings, meeting preparation, or documentation workflows."
+      ],
+      "requirements": [
+        "Background in law, international relations, human rights, governance, or related field.",
+        "Strong legal/policy research and concise writing skills.",
+        "Attention to detail and ability to handle sensitive material."
+      ]
+    },
+    {
       "id": "287356",
       "title": "UNEP Finance Initiative (UNEP FI) Internship for Risk Centre - Support for Risk Programming",
       "organization": "UN Careers",
@@ -14471,6 +14497,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287413",
+      "title": "Multimedia intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-15",
+      "postedDate": "2026-11-02",
+      "url": "https://careers.un.org/jobSearchDescription/287413?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: GENEVA. Title signal: Multimedia intern.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
       "id": "287483",
       "title": "Sustainable Development Affairs Intern",
       "organization": "UN Careers",
@@ -14491,6 +14544,32 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Background in economics, public policy, development, social sciences, or a related field.",
         "Strong research, writing, Excel, and analytical skills.",
         "Interest in UN development priorities and sustainable development issues."
+      ]
+    },
+    {
+      "id": "287486",
+      "title": "INTERN - Administration",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Admin, Finance & HR",
+      "location": "BANGKOK",
+      "continent": "Asia",
+      "deadline": "2026-12-17",
+      "postedDate": "2026-11-03",
+      "url": "https://careers.un.org/jobSearchDescription/287486?language=en",
+      "tags": [
+        "finance"
+      ],
+      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UN Careers. Location: BANGKOK. Title signal: INTERN - Administration.",
+      "responsibilities": [
+        "Support documentation, tracking, and daily operational workflows.",
+        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
+        "Prepare records, tables, notes, and process follow-up material."
+      ],
+      "requirements": [
+        "Organization, attention to detail, Excel, and documentation skills.",
+        "Interest in operations, finance, HR, compliance, administration, or procurement.",
+        "Ability to work carefully with procedures and records."
       ]
     },
     {
@@ -18494,6 +18573,32 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Strong writing, editing, storytelling, and communication skills.",
         "Experience or interest in social media, campaigns, multimedia, or public information.",
         "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "UNICEF-596751",
+      "title": "Batch Recruitment of National Interns for UN Agencies in Tajikistan",
+      "organization": "UNICEF",
+      "source": "UNICEF",
+      "category": "Programme & Project",
+      "location": "Tajikistan",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-20",
+      "postedDate": "2026-06-29",
+      "url": "https://jobs.unicef.org/en-us/job/596751/batch-recruitment-of-national-interns-for-un-agencies-in-tajikistan",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNICEF. Location: Tajikistan. Title signal: Batch Recruitment of National Interns for UN Agencies in Tajikistan.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
       ]
     },
     {
