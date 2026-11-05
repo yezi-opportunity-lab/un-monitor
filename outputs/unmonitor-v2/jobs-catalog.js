@@ -11650,6 +11650,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "285533",
+      "title": "Disaster Risk Reduction Intern (Disaster Risk Governance)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Legal & Human Rights",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-11-10",
+      "postedDate": "2026-11-04",
+      "url": "https://careers.un.org/jobSearchDescription/285533?language=en",
+      "tags": [
+        "legal"
+      ],
+      "summary": "Legal, governance, or human-rights role focused on research, analysis, documentation, and support to legal/policy teams. Source: UN Careers. Location: NAIROBI. Title signal: Disaster Risk Reduction Intern (Disaster Risk Governance).",
+      "responsibilities": [
+        "Conduct legal, governance, or human-rights desk research.",
+        "Summarize documents, cases, policies, or country developments.",
+        "Support reports, briefings, meeting preparation, or documentation workflows."
+      ],
+      "requirements": [
+        "Background in law, international relations, human rights, governance, or related field.",
+        "Strong legal/policy research and concise writing skills.",
+        "Attention to detail and ability to handle sensitive material."
+      ]
+    },
+    {
       "id": "285569",
       "title": "Intern - Periodista/Community Manager",
       "organization": "UN Careers",
@@ -14286,6 +14312,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287083",
+      "title": "Project Support Intern - United Nations Centre for Regional Development (UNCRD)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "JPN - OTHER CITIES",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-26",
+      "postedDate": "2026-10-26",
+      "url": "https://careers.un.org/jobSearchDescription/287083?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: JPN - OTHER CITIES. Title signal: Project Support Intern - United Nations Centre for Regional Development (UNCRD).",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "287087",
       "title": "Interns - Support the work of UNEP/MAP in implementing the Programme of Work and Budget for the period 2026-2027",
       "organization": "UN Careers",
@@ -14620,6 +14672,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287340",
+      "title": "ERS Interns",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-16",
+      "postedDate": "2026-11-04",
+      "url": "https://careers.un.org/jobSearchDescription/287340?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: GENEVA. Title signal: ERS Interns.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "287356",
       "title": "UNEP Finance Initiative (UNEP FI) Internship for Risk Centre - Support for Risk Programming",
       "organization": "UN Careers",
@@ -14643,6 +14721,32 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Background in economics, public policy, development, social sciences, or a related field.",
         "Strong research, writing, Excel, and analytical skills.",
         "Interest in UN development priorities and sustainable development issues."
+      ]
+    },
+    {
+      "id": "287388",
+      "title": "CTCN Internship Mitigation Support",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "COPENHAGEN",
+      "continent": "Europe",
+      "deadline": "2026-11-21",
+      "postedDate": "2026-11-04",
+      "url": "https://careers.un.org/jobSearchDescription/287388?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: COPENHAGEN. Title signal: CTCN Internship Mitigation Support.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
       ]
     },
     {
@@ -14763,6 +14867,33 @@ window.UN_MONITOR_JOB_CATALOG = {
         "data"
       ],
       "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: THE HAGUE. Title signal: Intern - Office of the ICJ Deputy-Registrar.",
+      "responsibilities": [
+        "Clean, organize, and analyze datasets or monitoring information.",
+        "Support dashboards, indicators, visualizations, reports, or information-management products.",
+        "Document data workflows and help teams use evidence for decision-making."
+      ],
+      "requirements": [
+        "Experience with Excel and ideally Python, SQL, R, Power BI, Tableau, GIS, or similar tools.",
+        "Comfort with data cleaning, structured analysis, and documentation.",
+        "Ability to translate data into clear written or visual outputs."
+      ]
+    },
+    {
+      "id": "287672",
+      "title": "Intern - Monitoring and Evaluation",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Data & Analytics",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-11-21",
+      "postedDate": "2026-11-05",
+      "url": "https://careers.un.org/jobSearchDescription/287672?language=en",
+      "tags": [
+        "data",
+        "monitoring"
+      ],
+      "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: NAIROBI. Title signal: Intern - Monitoring and Evaluation.",
       "responsibilities": [
         "Clean, organize, and analyze datasets or monitoring information.",
         "Support dashboards, indicators, visualizations, reports, or information-management products.",
@@ -18800,6 +18931,29 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Strong organization, writing, coordination, and research skills.",
         "Interest in project/programme management and UN operational workflows.",
         "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "UNICEF-596796",
+      "title": "National Internship- Education unit, Yaoundé, Cameroon, 6months( Cameroon nationals only)",
+      "organization": "UNICEF",
+      "source": "UNICEF",
+      "category": "Humanitarian & Protection",
+      "location": "Cameroon",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-15",
+      "postedDate": "2026-06-29",
+      "url": "https://jobs.unicef.org/en-us/job/596796/national-internship-education-unit-yaoundé-cameroon-6months-cameroon-nationals-only",
+      "summary": "Humanitarian, migration, protection, health, nutrition, education, or social-policy role supporting vulnerable populations. Source: UNICEF. Location: Cameroon. Title signal: National Internship- Education unit, Yaoundé, Cameroon, 6months( Cameroon nationals only).",
+      "responsibilities": [
+        "Support programme implementation, research, monitoring, or field coordination.",
+        "Contribute to documentation, needs analysis, protection or service-delivery follow-up.",
+        "Prepare notes, data summaries, and programme materials for humanitarian or social-policy teams."
+      ],
+      "requirements": [
+        "Interest or background in humanitarian affairs, migration, protection, public health, education, or social policy.",
+        "Research, documentation, and coordination skills.",
+        "Sensitivity to working with vulnerable populations and rights-based approaches."
       ]
     },
     {
