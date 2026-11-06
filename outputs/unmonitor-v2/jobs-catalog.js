@@ -9077,6 +9077,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "283986",
+      "title": "2026 Internships - Global Compact Office (New York)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-12-05",
+      "postedDate": "2026-11-06",
+      "url": "https://careers.un.org/jobSearchDescription/283986?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: NEW YORK. Title signal: 2026 Internships - Global Compact Office (New York).",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "284004",
       "title": "Internship for a Population Analyst",
       "organization": "UN Careers",
@@ -12749,6 +12775,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "286171",
+      "title": "Intern - Administration",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Admin, Finance & HR",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-11-12",
+      "postedDate": "2026-11-06",
+      "url": "https://careers.un.org/jobSearchDescription/286171?language=en",
+      "tags": [
+        "finance"
+      ],
+      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UN Careers. Location: NEW YORK. Title signal: Intern - Administration.",
+      "responsibilities": [
+        "Support documentation, tracking, and daily operational workflows.",
+        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
+        "Prepare records, tables, notes, and process follow-up material."
+      ],
+      "requirements": [
+        "Organization, attention to detail, Excel, and documentation skills.",
+        "Interest in operations, finance, HR, compliance, administration, or procurement.",
+        "Ability to work carefully with procedures and records."
+      ]
+    },
+    {
       "id": "286174",
       "title": "Intern - Project and Knowledge Management Support",
       "organization": "UN Careers",
@@ -13736,6 +13788,32 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Background in economics, public policy, development, social sciences, or a related field.",
         "Strong research, writing, Excel, and analytical skills.",
         "Interest in UN development priorities and sustainable development issues."
+      ]
+    },
+    {
+      "id": "286653",
+      "title": "Intern Administration",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Admin, Finance & HR",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-11-25",
+      "postedDate": "2026-11-05",
+      "url": "https://careers.un.org/jobSearchDescription/286653?language=en",
+      "tags": [
+        "finance"
+      ],
+      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UN Careers. Location: NEW YORK. Title signal: Intern Administration.",
+      "responsibilities": [
+        "Support documentation, tracking, and daily operational workflows.",
+        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
+        "Prepare records, tables, notes, and process follow-up material."
+      ],
+      "requirements": [
+        "Organization, attention to detail, Excel, and documentation skills.",
+        "Interest in operations, finance, HR, compliance, administration, or procurement.",
+        "Ability to work carefully with procedures and records."
       ]
     },
     {
@@ -14853,6 +14931,29 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287498",
+      "title": "Climate Change and Comprehensive Risk Management Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Climate & Environment",
+      "location": "BONN",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-22",
+      "postedDate": "2026-11-06",
+      "url": "https://careers.un.org/jobSearchDescription/287498?language=en",
+      "summary": "Environment or climate role supporting research, data, reporting, and policy work on sustainability topics. Source: UN Careers. Location: BONN. Title signal: Climate Change and Comprehensive Risk Management Intern.",
+      "responsibilities": [
+        "Support research on climate, environment, energy, chemicals, waste, or green economy topics.",
+        "Prepare evidence products, summaries, tables, or presentations.",
+        "Assist with programme documentation and stakeholder materials."
+      ],
+      "requirements": [
+        "Background or strong interest in environment, climate, energy, sustainability, or development.",
+        "Research, writing, and data-handling skills.",
+        "Ability to connect technical topics with policy or programme needs."
+      ]
+    },
+    {
       "id": "287502",
       "title": "Intern - Office of the ICJ Deputy-Registrar",
       "organization": "UN Careers",
@@ -14932,6 +15033,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287719",
+      "title": "Pasantía con enfoque en violaciones graves a los derechos humanos",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "MEXICO CITY",
+      "continent": "North America",
+      "deadline": "2026-11-18",
+      "postedDate": "2026-11-05",
+      "url": "https://careers.un.org/jobSearchDescription/287719?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: MEXICO CITY. Title signal: Pasantía con enfoque en violaciones graves a los derechos humanos.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
+        "Confirm internship eligibility on the official vacancy page."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "287721",
       "title": "Intern - Programme Management",
       "organization": "UN Careers",
@@ -14946,6 +15074,135 @@ window.UN_MONITOR_JOB_CATALOG = {
         "programme"
       ],
       "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: NEW YORK. Title signal: Intern - Programme Management.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "287757",
+      "title": "Intern on Climate Action",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Climate & Environment",
+      "location": "BONN",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-22",
+      "postedDate": "2026-11-05",
+      "url": "https://careers.un.org/jobSearchDescription/287757?language=en",
+      "summary": "Environment or climate role supporting research, data, reporting, and policy work on sustainability topics. Source: UN Careers. Location: BONN. Title signal: Intern on Climate Action.",
+      "responsibilities": [
+        "Support research on climate, environment, energy, chemicals, waste, or green economy topics.",
+        "Prepare evidence products, summaries, tables, or presentations.",
+        "Assist with programme documentation and stakeholder materials."
+      ],
+      "requirements": [
+        "Background or strong interest in environment, climate, energy, sustainability, or development.",
+        "Research, writing, and data-handling skills.",
+        "Ability to connect technical topics with policy or programme needs."
+      ]
+    },
+    {
+      "id": "287824",
+      "title": "Communications/Outreach Intern at the Office of the Director of Administration (UNOG)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-22",
+      "postedDate": "2026-11-05",
+      "url": "https://careers.un.org/jobSearchDescription/287824?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: GENEVA. Title signal: Communications/Outreach Intern at the Office of the Director of Administration (UNOG).",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "287827",
+      "title": "Communications Intern - Anti-Racism (UNOG)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-22",
+      "postedDate": "2026-11-05",
+      "url": "https://careers.un.org/jobSearchDescription/287827?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: GENEVA. Title signal: Communications Intern - Anti-Racism (UNOG).",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "287829",
+      "title": "Intern at the Information and Communication Technology Service (ICTS) in the Division of Administration (UNOG) - Multiple Positions",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Tech & Digital",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-22",
+      "postedDate": "2026-11-05",
+      "url": "https://careers.un.org/jobSearchDescription/287829?language=en",
+      "tags": [
+        "digital"
+      ],
+      "summary": "Technical or digital role supporting software, ICT, digital transformation, AI, GIS, or technology-enabled workflows. Source: UN Careers. Location: GENEVA. Title signal: Intern at the Information and Communication Technology Service (ICTS) in the Division of Administration (UNOG) - Multiple Positions.",
+      "responsibilities": [
+        "Support digital tools, systems, prototypes, or technical documentation.",
+        "Assist with requirements gathering, testing, implementation support, or workflow mapping.",
+        "Contribute to technology-enabled analysis, automation, or knowledge products."
+      ],
+      "requirements": [
+        "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
+        "Relevant software, web, database, GIS, or ICT skills.",
+        "Ability to explain technical work clearly to non-technical stakeholders."
+      ]
+    },
+    {
+      "id": "287879",
+      "title": "Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "ADDIS ABABA",
+      "continent": "Africa",
+      "deadline": "2026-11-17",
+      "postedDate": "2026-11-05",
+      "url": "https://careers.un.org/jobSearchDescription/287879?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: ADDIS ABABA. Title signal: Intern.",
       "responsibilities": [
         "Track activities, deliverables, meetings, and programme documentation.",
         "Support reporting, coordination, note-taking, research, and knowledge management.",
@@ -16429,6 +16686,55 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Strong organization, writing, coordination, and research skills.",
         "Interest in project/programme management and UN operational workflows.",
         "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "UNDP-37931",
+      "title": "Intern - Climate and Energy Project Support - Office based (Rome, Italy) / Home Based: Overview",
+      "organization": "UNDP",
+      "source": "UNDP",
+      "category": "Climate & Environment",
+      "location": "Rome, Italy",
+      "continent": "Europe",
+      "deadline": "2026-11-19",
+      "postedDate": "2026-06-29",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37931",
+      "summary": "Environment or climate role supporting research, data, reporting, and policy work on sustainability topics. Source: UNDP. Location: Rome, Italy. Title signal: Intern - Climate and Energy Project Support - Office based (Rome, Italy) / Home Based: Overview.",
+      "responsibilities": [
+        "Support research on climate, environment, energy, chemicals, waste, or green economy topics.",
+        "Prepare evidence products, summaries, tables, or presentations.",
+        "Assist with programme documentation and stakeholder materials."
+      ],
+      "requirements": [
+        "Background or strong interest in environment, climate, energy, sustainability, or development.",
+        "Research, writing, and data-handling skills.",
+        "Ability to connect technical topics with policy or programme needs."
+      ]
+    },
+    {
+      "id": "UNDP-37941",
+      "title": "Intern (Procurement & Supply Chain / Pharmacy)",
+      "organization": "UNDP",
+      "source": "UNDP",
+      "category": "Admin, Finance & HR",
+      "location": "Caracas, Venezuela",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-19",
+      "postedDate": "2026-06-29",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37941",
+      "tags": [
+        "finance"
+      ],
+      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UNDP. Location: Caracas, Venezuela. Title signal: Intern (Procurement & Supply Chain / Pharmacy).",
+      "responsibilities": [
+        "Support documentation, tracking, and daily operational workflows.",
+        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
+        "Prepare records, tables, notes, and process follow-up material."
+      ],
+      "requirements": [
+        "Organization, attention to detail, Excel, and documentation skills.",
+        "Interest in operations, finance, HR, compliance, administration, or procurement.",
+        "Ability to work carefully with procedures and records."
       ]
     },
     {
@@ -18799,6 +19105,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "UNICEF-596600",
+      "title": "Individual Giving Artificial Intelligence Internship, Individual Giving, Division of Private Fundraising and Partnerships (PFP)",
+      "organization": "UNICEF",
+      "source": "UNICEF",
+      "category": "Tech & Digital",
+      "location": "Italy",
+      "continent": "Europe",
+      "deadline": "2026-11-14",
+      "postedDate": "2026-06-29",
+      "url": "https://jobs.unicef.org/en-us/job/596600/individual-giving-artificial-intelligence-internship-individual-giving-division-of-private-fundraising-and-partnerships-pfp",
+      "tags": [
+        "digital"
+      ],
+      "summary": "Technical or digital role supporting software, ICT, digital transformation, AI, GIS, or technology-enabled workflows. Source: UNICEF. Location: Italy. Title signal: Individual Giving Artificial Intelligence Internship, Individual Giving, Division of Private Fundraising and Partnerships (PFP).",
+      "responsibilities": [
+        "Support digital tools, systems, prototypes, or technical documentation.",
+        "Assist with requirements gathering, testing, implementation support, or workflow mapping.",
+        "Contribute to technology-enabled analysis, automation, or knowledge products."
+      ],
+      "requirements": [
+        "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
+        "Relevant software, web, database, GIS, or ICT skills.",
+        "Ability to explain technical work clearly to non-technical stakeholders."
+      ]
+    },
+    {
       "id": "UNICEF-596601",
       "title": "Supporter Content - Knowledge Management Intern, Division of Private Fundraising and Partnerships (PFP)",
       "organization": "UNICEF",
@@ -20072,6 +20404,33 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Track activities, deliverables, meetings, and programme documentation.",
         "Support reporting, coordination, note-taking, research, and knowledge management.",
         "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "UNU-2815908",
+      "title": "Consultant: Office and Events Manager",
+      "organization": "UNU",
+      "source": "UNU",
+      "category": "Programme & Project",
+      "location": "Geneva, Switzerland",
+      "continent": "Europe",
+      "deadline": "2026-11-30",
+      "postedDate": "2026-06-29",
+      "url": "https://careers.unu.edu/o/consultant-office-and-events-manager",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNU. Location: Geneva, Switzerland. Title signal: Consultant: Office and Events Manager.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
+        "Confirm internship eligibility on the official vacancy page."
       ],
       "requirements": [
         "Strong organization, writing, coordination, and research skills.",
