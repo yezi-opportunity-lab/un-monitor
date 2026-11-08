@@ -15749,7 +15749,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Geneva, Switzerland",
       "continent": "Europe",
       "deadline": "2026-12-10",
-      "postedDate": "2026-10-10",
+      "postedDate": "2026-11-08",
       "url": "https://jobs.itu.int/job/Geneva-Unpaid-internship-Emergency-Telecommunications-Intern/1367950855/",
       "tags": [
         "communications",
