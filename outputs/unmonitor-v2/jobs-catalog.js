@@ -19448,7 +19448,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "Senegal",
       "continent": "Remote / Global",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-10",
       "postedDate": "2026-06-29",
       "url": "https://jobs.unicef.org/en-us/job/596490/stagiaire-en-partenariats-et-communication-senegal-country-office-dakar-03-mois",
       "tags": [
@@ -21650,6 +21650,29 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Strong writing, editing, storytelling, and communication skills.",
         "Experience or interest in social media, campaigns, multimedia, or public information.",
         "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "WFP-JR128261",
+      "title": "Nutrition Intern",
+      "organization": "WFP",
+      "source": "WFP",
+      "category": "Humanitarian & Protection",
+      "location": "Freetown, Sierra Leone, The Rep. Of",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-23",
+      "postedDate": "2026-11-10",
+      "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
+      "summary": "Humanitarian, migration, protection, health, nutrition, education, or social-policy role supporting vulnerable populations. Source: WFP. Location: Freetown, Sierra Leone, The Rep. Of. Title signal: Nutrition Intern.",
+      "responsibilities": [
+        "Support programme implementation, research, monitoring, or field coordination.",
+        "Contribute to documentation, needs analysis, protection or service-delivery follow-up.",
+        "Prepare notes, data summaries, and programme materials for humanitarian or social-policy teams."
+      ],
+      "requirements": [
+        "Interest or background in humanitarian affairs, migration, protection, public health, education, or social policy.",
+        "Research, documentation, and coordination skills.",
+        "Sensitivity to working with vulnerable populations and rights-based approaches."
       ]
     }
   ]
