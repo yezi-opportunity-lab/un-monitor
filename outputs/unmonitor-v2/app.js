@@ -516,6 +516,7 @@ let applicationLoadVersion = 0;
 let authEventVersion = 0;
 let applicationLoadTimer = null;
 let applicationWritePending = false;
+let editingProfileId = state.profiles[0]?.id || null;
 
 function loadState() {
   const liveJobs = window.UN_MONITOR_LIVE_JOBS?.jobs;
@@ -532,15 +533,28 @@ function loadState() {
       evidence: "Add reusable CV bullets and project examples here.",
     },
     draftNote: "",
+    profiles: [],
   };
   const savedMeta = includeLocalJobs ? saved || legacySaved || localProfile : localProfile;
+  const savedProfiles = Array.isArray(savedMeta.profiles)
+    ? savedMeta.profiles.map(normalizeProfile).filter(Boolean)
+    : savedMeta.profile && typeof savedMeta.profile === "object"
+      ? [normalizeProfile({
+          id: "migrated-profile",
+          name: "Primary profile",
+          ...savedMeta.profile,
+          draftNote: savedMeta.draftNote || "",
+        })]
+      : [];
+  const currentProfile = savedProfiles[0];
   const baseState = {
     ...defaults,
     profile: {
       ...defaults.profile,
-      ...(savedMeta.profile && typeof savedMeta.profile === "object" ? savedMeta.profile : {}),
+      ...(currentProfile || (savedMeta.profile && typeof savedMeta.profile === "object" ? savedMeta.profile : {})),
     },
-    draftNote: typeof savedMeta.draftNote === "string" ? savedMeta.draftNote : defaults.draftNote,
+    draftNote: currentProfile?.draftNote || (typeof savedMeta.draftNote === "string" ? savedMeta.draftNote : defaults.draftNote),
+    profiles: savedProfiles,
     liveGeneratedAt,
   };
   if (includeLocalJobs && savedHasTrustedJobs && Array.isArray(saved.jobs)) {
@@ -569,6 +583,19 @@ function parseSavedState(value) {
   } catch {
     return null;
   }
+}
+
+function normalizeProfile(profile) {
+  if (!profile || typeof profile !== "object") return null;
+  return {
+    id: String(profile.id || `profile-${Date.now()}-${Math.random().toString(16).slice(2)}`),
+    name: String(profile.name || "Untitled profile"),
+    targets: String(profile.targets || ""),
+    skills: String(profile.skills || ""),
+    evidence: String(profile.evidence || ""),
+    draftNote: String(profile.draftNote || ""),
+    updatedAt: String(profile.updatedAt || new Date().toISOString()),
+  };
 }
 
 function publicJob(job) {
@@ -639,7 +666,11 @@ function inferContinent(location) {
 
 function saveState() {
   try {
-    localStorage.setItem(localProfileKey, JSON.stringify({ profile: state.profile, draftNote: state.draftNote }));
+    localStorage.setItem(localProfileKey, JSON.stringify({
+      profile: state.profile,
+      draftNote: state.draftNote,
+      profiles: state.profiles,
+    }));
   } catch {
     // Profile cloud sync can still work when browser storage is unavailable.
   }
@@ -724,14 +755,22 @@ function applyProfileRecord(record) {
   if (!record?.notes) return;
   try {
     const saved = JSON.parse(record.notes);
-    if (saved.profile && typeof saved.profile === "object") {
-      state.profile = {
-        targets: String(saved.profile.targets || ""),
-        skills: String(saved.profile.skills || ""),
-        evidence: String(saved.profile.evidence || ""),
-      };
+    state.profiles = Array.isArray(saved.profiles)
+      ? saved.profiles.map(normalizeProfile).filter(Boolean)
+      : saved.profile && typeof saved.profile === "object"
+        ? [normalizeProfile({
+            id: "migrated-profile",
+            name: "Primary profile",
+            ...saved.profile,
+            draftNote: saved.draftNote || "",
+          })]
+        : [];
+    const latest = state.profiles[0];
+    editingProfileId = latest?.id || null;
+    if (latest) {
+      state.profile = { targets: latest.targets, skills: latest.skills, evidence: latest.evidence };
+      state.draftNote = latest.draftNote;
     }
-    state.draftNote = typeof saved.draftNote === "string" ? saved.draftNote : "";
   } catch {
     // Ignore an invalid legacy profile payload without affecting applications.
   }
@@ -746,7 +785,7 @@ function serializeProfile() {
     applied_at: null,
     status_updated_at: timestamp,
     first_tracked_at: timestamp,
-    notes: JSON.stringify({ profile: state.profile, draftNote: state.draftNote }),
+    notes: JSON.stringify({ profiles: state.profiles }),
     updated_at: timestamp,
   };
 }
@@ -1349,8 +1388,21 @@ function setupForms() {
       return;
     }
     const data = new FormData(event.currentTarget);
-    state.profile = { targets: data.get("targets"), skills: data.get("skills"), evidence: data.get("evidence") };
-    state.draftNote = String(data.get("draftNote") || "");
+    const profile = normalizeProfile({
+      id: editingProfileId || `profile-${Date.now()}-${Math.random().toString(16).slice(2)}`,
+      name: data.get("profileName"),
+      targets: data.get("targets"),
+      skills: data.get("skills"),
+      evidence: data.get("evidence"),
+      draftNote: data.get("draftNote"),
+      updatedAt: new Date().toISOString(),
+    });
+    const existingIndex = state.profiles.findIndex((item) => item.id === profile.id);
+    if (existingIndex >= 0) state.profiles.splice(existingIndex, 1, profile);
+    else state.profiles.unshift(profile);
+    editingProfileId = profile.id;
+    state.profile = { targets: profile.targets, skills: profile.skills, evidence: profile.evidence };
+    state.draftNote = profile.draftNote;
     saveState();
     renderSavedProfile();
     if (currentUser) {
@@ -1359,6 +1411,24 @@ function setupForms() {
     } else {
       status.textContent = "Profile saved in this browser. Sign in to sync it across devices.";
     }
+  });
+  document.getElementById("cancel-profile-edit").addEventListener("click", () => {
+    editingProfileId = null;
+    resetProfileForm();
+    renderSavedProfile();
+    document.getElementById("profile-save-status").textContent = "Ready to save a new profile.";
+  });
+  document.getElementById("saved-profile").addEventListener("click", (event) => {
+    const button = event.target.closest("[data-edit-profile]");
+    if (!button) return;
+    const profile = state.profiles.find((item) => item.id === button.dataset.editProfile);
+    if (!profile) return;
+    editingProfileId = profile.id;
+    state.profile = { targets: profile.targets, skills: profile.skills, evidence: profile.evidence };
+    state.draftNote = profile.draftNote;
+    hydrateProfile();
+    document.getElementById("profile-save-status").textContent = `Editing ${profile.name}`;
+    document.getElementById("profile-form").scrollIntoView({ behavior: "smooth", block: "start" });
   });
   document.getElementById("reset-demo").addEventListener("click", () => {
     clearApplicationStateStorage();
@@ -1427,6 +1497,8 @@ function handleCloudSession(session) {
       state.jobs = mergeJobs(state.jobs, saved.jobs.map(normalizeJob));
       state.profile = { ...state.profile, ...saved.profile };
       state.draftNote = saved.draftNote || "";
+      state.profiles = Array.isArray(saved.profiles) ? saved.profiles.map(normalizeProfile).filter(Boolean) : state.profiles;
+      editingProfileId = state.profiles[0]?.id || null;
     }
     selectedJobId = state.jobs[0]?.id;
     hydrateProfile();
@@ -1517,21 +1589,55 @@ function escapeHtml(value) {
 
 function hydrateProfile() {
   const form = document.getElementById("profile-form");
-  form.elements.targets.value = state.profile.targets;
-  form.elements.skills.value = state.profile.skills;
-  form.elements.evidence.value = state.profile.evidence;
-  form.elements.draftNote.value = state.draftNote;
+  const editing = state.profiles.find((profile) => profile.id === editingProfileId);
+  form.elements.profileName.value = editing?.name || "";
+  form.elements.targets.value = editing?.targets ?? state.profile.targets;
+  form.elements.skills.value = editing?.skills ?? state.profile.skills;
+  form.elements.evidence.value = editing?.evidence ?? state.profile.evidence;
+  form.elements.draftNote.value = editing?.draftNote ?? state.draftNote;
   renderSavedProfile();
+}
+
+function resetProfileForm() {
+  const form = document.getElementById("profile-form");
+  form.reset();
+  form.elements.profileName.value = "";
+  form.elements.targets.value = "";
+  form.elements.skills.value = "";
+  form.elements.evidence.value = "";
+  form.elements.draftNote.value = "";
 }
 
 function renderSavedProfile() {
   const valueOrEmpty = (value) => String(value || "").trim() || "Not added yet";
-  document.getElementById("saved-profile-targets").textContent = valueOrEmpty(state.profile.targets);
-  document.getElementById("saved-profile-skills").textContent = valueOrEmpty(state.profile.skills);
-  document.getElementById("saved-profile-evidence").textContent = valueOrEmpty(state.profile.evidence);
-  document.getElementById("saved-profile-draft").textContent = valueOrEmpty(state.draftNote);
-  document.getElementById("sidebar-profile-targets").textContent = valueOrEmpty(state.profile.targets);
-  document.getElementById("sidebar-profile-skills").textContent = valueOrEmpty(state.profile.skills);
+  const container = document.getElementById("saved-profile");
+  container.innerHTML = "";
+  if (!state.profiles.length) {
+    const empty = document.createElement("p");
+    empty.className = "saved-profile-empty";
+    empty.textContent = "No saved profiles yet.";
+    container.append(empty);
+  }
+  state.profiles.forEach((profile) => {
+    const card = document.createElement("article");
+    card.className = `saved-profile-card ${profile.id === editingProfileId ? "editing" : ""}`;
+    card.innerHTML = `
+      <div class="saved-profile-heading">
+        <h4>${escapeHtml(profile.name)}</h4>
+        <button class="secondary-btn compact-btn" type="button" data-edit-profile="${escapeHtml(profile.id)}">Edit</button>
+      </div>
+      <div class="saved-profile-section"><span>Target tracks</span><p>${escapeHtml(valueOrEmpty(profile.targets))}</p></div>
+      <div class="saved-profile-section"><span>Skill keywords</span><p>${escapeHtml(valueOrEmpty(profile.skills))}</p></div>
+      <div class="saved-profile-section"><span>Experience evidence</span><p>${escapeHtml(valueOrEmpty(profile.evidence))}</p></div>
+      <div class="saved-profile-section"><span>Application draft notes</span><p>${escapeHtml(valueOrEmpty(profile.draftNote))}</p></div>
+    `;
+    container.append(card);
+  });
+  const current = state.profiles.find((profile) => profile.id === editingProfileId) || state.profiles[0];
+  document.getElementById("sidebar-profile-targets").textContent = valueOrEmpty(current?.targets || state.profile.targets);
+  document.getElementById("sidebar-profile-skills").textContent = valueOrEmpty(current?.skills || state.profile.skills);
+  document.getElementById("save-profile").textContent = editingProfileId ? "Save changes" : "Save as new profile";
+  document.getElementById("cancel-profile-edit").hidden = !editingProfileId;
 }
 
 function renderAll() {

@@ -228,6 +228,10 @@
               </div>
               <form class="profile-form" id="profile-form">
                 <label>
+                  <span>Profile name</span>
+                  <input name="profileName" placeholder="e.g. Data internships" required />
+                </label>
+                <label>
                   <span>Target tracks</span>
                   <input name="targets" value="Economics, Data, Programme" />
                 </label>
@@ -243,7 +247,10 @@
                   <span>Application draft notes</span>
                   <textarea name="draftNote" placeholder="Save motivation-letter ideas, Inspira answers, or tailoring notes here."></textarea>
                 </label>
-                <button class="primary-btn" type="submit">Save profile</button>
+                <div class="profile-form-actions">
+                  <button class="primary-btn" id="save-profile" type="submit">Save as new profile</button>
+                  <button class="secondary-btn" id="cancel-profile-edit" type="button" hidden>Cancel editing</button>
+                </div>
                 <p class="form-status" id="profile-save-status" role="status" aria-live="polite"></p>
               </form>
             </section>
@@ -255,24 +262,7 @@
                   <h3>Your saved evidence</h3>
                 </div>
               </div>
-              <div class="saved-profile" id="saved-profile">
-                <div class="saved-profile-section">
-                  <span>Target tracks</span>
-                  <p id="saved-profile-targets"></p>
-                </div>
-                <div class="saved-profile-section">
-                  <span>Skill keywords</span>
-                  <p id="saved-profile-skills"></p>
-                </div>
-                <div class="saved-profile-section">
-                  <span>Experience evidence</span>
-                  <p id="saved-profile-evidence"></p>
-                </div>
-                <div class="saved-profile-section">
-                  <span>Application draft notes</span>
-                  <p id="saved-profile-draft"></p>
-                </div>
-              </div>
+              <div class="saved-profile" id="saved-profile"></div>
             </section>
           </div>
         </section>
@@ -283,6 +273,6 @@
     <script src="./supabase-config.js"></script>
     <script src="./jobs-data.js?v=20260920-unesco"></script>
     <script src="./jobs-catalog.js?v=20260922-history"></script>
-    <script src="./app.js?v=20261111-profile-save"></script>
+    <script src="./app.js?v=20261111-multiple-profiles"></script>
   </body>
 </html>

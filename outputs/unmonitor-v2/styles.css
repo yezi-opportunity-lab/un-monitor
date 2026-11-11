@@ -674,11 +674,51 @@ textarea {
   gap: 14px;
 }
 
+.saved-profile-card {
+  display: grid;
+  gap: 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 14px;
+  background: white;
+}
+
+.saved-profile-card.editing {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.12);
+}
+
+.saved-profile-heading,
+.profile-form-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.saved-profile-heading h4 {
+  margin: 0;
+}
+
+.compact-btn {
+  min-height: 34px;
+  padding: 6px 12px;
+}
+
+.saved-profile-empty {
+  margin: 0;
+  color: var(--muted);
+}
+
 .saved-profile-section {
   border: 1px solid var(--line);
   border-radius: 8px;
   padding: 14px;
   background: #f8fafc;
+}
+
+.saved-profile-card .saved-profile-section {
+  padding: 11px;
 }
 
 .saved-profile-section span {
