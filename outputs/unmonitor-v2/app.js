@@ -983,7 +983,14 @@ function populateSourceFilter() {
 }
 
 function getOrganizations() {
-  return Array.from(new Set(state.jobs.map((job) => job.organization).filter(Boolean))).sort();
+  return Array.from(new Set(state.jobs
+    .map((job) => job.organization)
+    .filter((organization) => organization && organization !== "Unknown organization")))
+    .sort((left, right) => {
+      if (left === "UN Careers") return -1;
+      if (right === "UN Careers") return 1;
+      return left.localeCompare(right);
+    });
 }
 
 function getFilteredJobs() {

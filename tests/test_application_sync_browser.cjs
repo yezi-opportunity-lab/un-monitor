@@ -86,6 +86,10 @@ const server = http.createServer((req, res) => {
       assert.equal(await page.locator("#metric-applied-total").innerText(), "26");
       assert.equal(await page.locator('#status-filter option[value="saved"]').innerText(), "Saved");
       assert.equal(await page.locator('#detail-status option[value="saved"]').innerText(), "Saved");
+      const organizations = await page.locator("#source-filter option").allTextContents();
+      assert.equal(organizations[0], "All organizations");
+      assert.equal(organizations[1], "UN Careers");
+      assert.ok(!organizations.includes("Unknown organization"));
       assert.equal(await page.evaluate(() => window.testWrites.length), 0);
       await page.locator('[data-view="dashboard"]').click();
       await page.locator('[data-range="30"]').click();
