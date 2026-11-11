@@ -13844,6 +13844,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "286639",
+      "title": "Pasantía ONU Derechos Humanos",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "SANTIAGO",
+      "continent": "South America",
+      "deadline": "2026-11-24",
+      "postedDate": "2026-11-11",
+      "url": "https://careers.un.org/jobSearchDescription/286639?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: SANTIAGO. Title signal: Pasantía ONU Derechos Humanos.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
+        "Confirm internship eligibility on the official vacancy page."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "286653",
       "title": "Intern Administration",
       "organization": "UN Careers",
@@ -14679,7 +14706,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-11-10",
+      "deadline": "2026-11-26",
       "postedDate": "2026-10-28",
       "url": "https://careers.un.org/jobSearchDescription/287208?language=en",
       "tags": [
@@ -15109,6 +15136,29 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287588",
+      "title": "Intern - Humanitarian Affairs",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Humanitarian & Protection",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-16",
+      "postedDate": "2026-11-10",
+      "url": "https://careers.un.org/jobSearchDescription/287588?language=en",
+      "summary": "Humanitarian, migration, protection, health, nutrition, education, or social-policy role supporting vulnerable populations. Source: UN Careers. Location: GENEVA. Title signal: Intern - Humanitarian Affairs.",
+      "responsibilities": [
+        "Support programme implementation, research, monitoring, or field coordination.",
+        "Contribute to documentation, needs analysis, protection or service-delivery follow-up.",
+        "Prepare notes, data summaries, and programme materials for humanitarian or social-policy teams."
+      ],
+      "requirements": [
+        "Interest or background in humanitarian affairs, migration, protection, public health, education, or social policy.",
+        "Research, documentation, and coordination skills.",
+        "Sensitivity to working with vulnerable populations and rights-based approaches."
+      ]
+    },
+    {
       "id": "287635",
       "title": "Intern - RCS Philippines",
       "organization": "UN Careers",
@@ -15504,6 +15554,35 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287855",
+      "title": "Digital Policy & AI Researcher",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Tech & Digital",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-11-21",
+      "postedDate": "2026-11-10",
+      "url": "https://careers.un.org/jobSearchDescription/287855?language=en",
+      "tags": [
+        "policy",
+        "research",
+        "digital"
+      ],
+      "summary": "Technical or digital role supporting software, ICT, digital transformation, AI, GIS, or technology-enabled workflows. Source: UN Careers. Location: NAIROBI. Title signal: Digital Policy & AI Researcher.",
+      "responsibilities": [
+        "Support digital tools, systems, prototypes, or technical documentation.",
+        "Assist with requirements gathering, testing, implementation support, or workflow mapping.",
+        "Contribute to technology-enabled analysis, automation, or knowledge products.",
+        "Confirm internship eligibility on the official vacancy page."
+      ],
+      "requirements": [
+        "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
+        "Relevant software, web, database, GIS, or ICT skills.",
+        "Ability to explain technical work clearly to non-technical stakeholders."
+      ]
+    },
+    {
       "id": "287860",
       "title": "Intern - research & project management",
       "organization": "UN Careers",
@@ -15580,6 +15659,87 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Background in law, international relations, human rights, governance, or related field.",
         "Strong legal/policy research and concise writing skills.",
         "Attention to detail and ability to handle sensitive material."
+      ]
+    },
+    {
+      "id": "287973",
+      "title": "Policy Coordination Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Economics & Development",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-25",
+      "postedDate": "2026-11-10",
+      "url": "https://careers.un.org/jobSearchDescription/287973?language=en",
+      "tags": [
+        "policy"
+      ],
+      "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: GENEVA. Title signal: Policy Coordination Intern.",
+      "responsibilities": [
+        "Support policy research, background notes, and evidence synthesis.",
+        "Analyze programme, economic, budget, or development information for team outputs.",
+        "Prepare short written products such as briefs, talking points, tables, and presentations."
+      ],
+      "requirements": [
+        "Background in economics, public policy, development, social sciences, or a related field.",
+        "Strong research, writing, Excel, and analytical skills.",
+        "Interest in UN development priorities and sustainable development issues."
+      ]
+    },
+    {
+      "id": "288052",
+      "title": "Intern - Data and Digital Support Section",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Data & Analytics",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "deadline": "2026-11-23",
+      "postedDate": "2026-11-10",
+      "url": "https://careers.un.org/jobSearchDescription/288052?language=en",
+      "tags": [
+        "data",
+        "digital"
+      ],
+      "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: GENEVA. Title signal: Intern - Data and Digital Support Section.",
+      "responsibilities": [
+        "Clean, organize, and analyze datasets or monitoring information.",
+        "Support dashboards, indicators, visualizations, reports, or information-management products.",
+        "Document data workflows and help teams use evidence for decision-making."
+      ],
+      "requirements": [
+        "Experience with Excel and ideally Python, SQL, R, Power BI, Tableau, GIS, or similar tools.",
+        "Comfort with data cleaning, structured analysis, and documentation.",
+        "Ability to translate data into clear written or visual outputs."
+      ]
+    },
+    {
+      "id": "288127",
+      "title": "Intern - Digital Communications & Information Management",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Data & Analytics",
+      "location": "ULAN BATOR",
+      "continent": "Remote / Global",
+      "deadline": "2026-11-19",
+      "postedDate": "2026-11-11",
+      "url": "https://careers.un.org/jobSearchDescription/288127?language=en",
+      "tags": [
+        "data",
+        "communications",
+        "digital"
+      ],
+      "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: ULAN BATOR. Title signal: Intern - Digital Communications & Information Management.",
+      "responsibilities": [
+        "Clean, organize, and analyze datasets or monitoring information.",
+        "Support dashboards, indicators, visualizations, reports, or information-management products.",
+        "Document data workflows and help teams use evidence for decision-making."
+      ],
+      "requirements": [
+        "Experience with Excel and ideally Python, SQL, R, Power BI, Tableau, GIS, or similar tools.",
+        "Comfort with data cleaning, structured analysis, and documentation.",
+        "Ability to translate data into clear written or visual outputs."
       ]
     },
     {
@@ -17126,6 +17286,33 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Strong research, writing, and stakeholder-analysis skills.",
         "Interest in partnerships, fundraising, external relations, or private-sector engagement.",
         "Ability to synthesize information for senior audiences."
+      ]
+    },
+    {
+      "id": "UNDP-38018",
+      "title": "Social media video production intern",
+      "organization": "UNDP",
+      "source": "UNDP",
+      "category": "Communications & Advocacy",
+      "location": "New York, United States",
+      "continent": "North America",
+      "deadline": "2026-12-09",
+      "postedDate": "2026-06-29",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38018",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UNDP. Location: New York, United States. Title signal: Social media video production intern.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
       ]
     },
     {
