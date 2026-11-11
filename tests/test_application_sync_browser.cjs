@@ -102,6 +102,17 @@ const server = http.createServer((req, res) => {
       });
       assert.deepEqual(deadlineOrder, ["active-test", "expired-test"]);
       assert.equal(await page.evaluate(() => window.testWrites.length), 0);
+      await page.locator('[data-view="studio"]').click();
+      await page.locator('#profile-form [name="targets"]').fill("Economics, Data");
+      await page.locator('#profile-form [name="skills"]').fill("Python, policy research");
+      await page.locator('#profile-form [name="evidence"]').fill("Built a monitoring dashboard.");
+      await page.locator('#profile-form [name="draftNote"]').fill("Tailor examples to the role.");
+      await page.locator('#profile-form button[type="submit"]').click();
+      await page.waitForFunction(() => document.getElementById("profile-save-status").textContent === "Profile saved to your account.");
+      assert.equal(await page.locator("#saved-profile-targets").innerText(), "Economics, Data");
+      const profileWrite = await page.evaluate(() => window.testWrites.find((row) => row.job_id === "__unmonitor_profile__"));
+      assert.ok(profileWrite);
+      assert.equal(JSON.parse(profileWrite.notes).profile.evidence, "Built a monitoring dashboard.");
       await page.locator('[data-view="dashboard"]').click();
       await page.locator('[data-range="30"]').click();
       const categories = await page.locator("#category-chart").innerText();
@@ -165,7 +176,7 @@ const server = http.createServer((req, res) => {
       await page.locator("#deadline-filter").selectOption("all");
       await page.locator("#detail-status").selectOption("offer");
       await page.waitForFunction(() => document.getElementById("sync-status").textContent === "Saved to cloud");
-      assert.equal(await page.evaluate(() => window.testWrites.length), 1);
+      assert.equal(await page.evaluate(() => window.testWrites.filter((row) => row.job_id !== "__unmonitor_profile__").length), 1);
       await page.locator("#sign-out").click();
       await page.waitForFunction(() => document.getElementById("auth-status").textContent === "Sign in for cloud dashboard");
       assert.equal(await page.locator("#metric-applied-total").innerText(), "0");

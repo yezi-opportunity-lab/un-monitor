@@ -44,8 +44,8 @@
 
         <section class="profile-card">
           <span class="eyebrow">Current profile</span>
-          <strong>Economics + Data</strong>
-          <p>Policy research, Python, Excel, dashboards, SDGs.</p>
+          <strong id="sidebar-profile-targets">Economics + Data</strong>
+          <p id="sidebar-profile-skills">Policy research, Python, Excel, dashboards, SDGs.</p>
         </section>
       </aside>
 
@@ -58,7 +58,6 @@
           </div>
           <div class="topbar-actions">
             <button class="secondary-btn" id="reset-demo" type="button">Reset demo data</button>
-            <button class="primary-btn" id="open-add-job" type="button">Add job</button>
           </div>
         </header>
 
@@ -240,25 +239,39 @@
                   <span>Experience evidence</span>
                   <textarea name="evidence">Add reusable CV bullets and project examples here.</textarea>
                 </label>
+                <label>
+                  <span>Application draft notes</span>
+                  <textarea name="draftNote" placeholder="Save motivation-letter ideas, Inspira answers, or tailoring notes here."></textarea>
+                </label>
                 <button class="primary-btn" type="submit">Save profile</button>
+                <p class="form-status" id="profile-save-status" role="status" aria-live="polite"></p>
               </form>
             </section>
 
             <section class="panel">
               <div class="panel-heading">
                 <div>
-                  <p class="eyebrow">Resume Studio</p>
-                  <h3>Lightweight materials hub</h3>
+                  <p class="eyebrow">Saved profile</p>
+                  <h3>Your saved evidence</h3>
                 </div>
               </div>
-              <div class="studio-placeholder">
-                <h4>AI motivation-letter editing is parked for now</h4>
-                <p>This MVP keeps the profile, application notes, and job-to-material workflow ready. A switchable LLM provider can be added later.</p>
-                <label>
+              <div class="saved-profile" id="saved-profile">
+                <div class="saved-profile-section">
+                  <span>Target tracks</span>
+                  <p id="saved-profile-targets"></p>
+                </div>
+                <div class="saved-profile-section">
+                  <span>Skill keywords</span>
+                  <p id="saved-profile-skills"></p>
+                </div>
+                <div class="saved-profile-section">
+                  <span>Experience evidence</span>
+                  <p id="saved-profile-evidence"></p>
+                </div>
+                <div class="saved-profile-section">
                   <span>Application draft notes</span>
-                  <textarea id="draft-note" placeholder="Save motivation-letter ideas, Inspira answers, or tailoring notes here."></textarea>
-                </label>
-                <button class="secondary-btn" id="save-draft-note" type="button">Save draft note</button>
+                  <p id="saved-profile-draft"></p>
+                </div>
               </div>
             </section>
           </div>
@@ -266,50 +279,10 @@
       </main>
     </div>
 
-    <dialog id="add-job-dialog">
-      <form method="dialog" class="dialog-card" id="add-job-form">
-        <div class="panel-heading">
-          <div>
-            <p class="eyebrow">Manual import</p>
-            <h3>Add job</h3>
-          </div>
-          <button class="icon-btn" value="cancel" type="submit" aria-label="Close">x</button>
-        </div>
-        <label>
-          <span>Job title</span>
-          <input name="title" required />
-        </label>
-        <label>
-          <span>Agency</span>
-          <input name="organization" required />
-        </label>
-        <label>
-          <span>Category</span>
-          <select name="category" id="add-category"></select>
-        </label>
-        <label>
-          <span>Location</span>
-          <input name="location" value="Remote / New York" />
-        </label>
-        <label>
-          <span>Deadline</span>
-          <input name="deadline" type="date" required />
-        </label>
-        <label>
-          <span>JD summary</span>
-          <textarea name="summary" required></textarea>
-        </label>
-        <div class="dialog-actions">
-          <button class="secondary-btn" value="cancel" type="submit">Cancel</button>
-          <button class="primary-btn" value="default" type="submit">Add</button>
-        </div>
-      </form>
-    </dialog>
-
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="./supabase-config.js"></script>
     <script src="./jobs-data.js?v=20260920-unesco"></script>
     <script src="./jobs-catalog.js?v=20260922-history"></script>
-    <script src="./app.js?v=20261111-expired-last"></script>
+    <script src="./app.js?v=20261111-profile-save"></script>
   </body>
 </html>

@@ -669,6 +669,40 @@ textarea {
   line-height: 1.55;
 }
 
+.saved-profile {
+  display: grid;
+  gap: 14px;
+}
+
+.saved-profile-section {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 14px;
+  background: #f8fafc;
+}
+
+.saved-profile-section span {
+  display: block;
+  margin-bottom: 7px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.saved-profile-section p {
+  margin: 0;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.form-status {
+  min-height: 20px;
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 dialog {
   border: 0;
   padding: 0;

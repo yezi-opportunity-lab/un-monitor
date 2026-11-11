@@ -46,8 +46,10 @@ const unicefSearchUrl = "https://jobs.unicef.org/en-us/search/?search-keyword=in
 const productionAppUrl = "https://yezi-opportunity-lab.github.io/un-monitor/";
 const legacyStateKey = "unmonitor-v2-state";
 const localStateKey = "unmonitor-v2-local-state";
+const localProfileKey = "unmonitor-v2-profile";
 const localStateVersion = 2;
 const cloudSessionKey = "unmonitor-v2-cloud-session";
+const profileRecordId = "__unmonitor_profile__";
 
 const continentKeywords = {
   Africa: [
@@ -522,6 +524,7 @@ function loadState() {
   const includeLocalJobs = !isSupabaseConfigured();
   const savedHasTrustedJobs = saved?.storageVersion === localStateVersion && saved?.stateScope === "local";
   const legacySaved = savedHasTrustedJobs ? null : parseSavedState(localStorage.getItem(legacyStateKey), legacyStateKey);
+  const localProfile = parseSavedState(localStorage.getItem(localProfileKey)) || {};
   const defaults = {
     profile: {
       targets: "Economics, Data, Programme",
@@ -530,7 +533,7 @@ function loadState() {
     },
     draftNote: "",
   };
-  const savedMeta = includeLocalJobs ? saved || legacySaved || {} : {};
+  const savedMeta = includeLocalJobs ? saved || legacySaved || localProfile : localProfile;
   const baseState = {
     ...defaults,
     profile: {
@@ -635,6 +638,11 @@ function inferContinent(location) {
 }
 
 function saveState() {
+  try {
+    localStorage.setItem(localProfileKey, JSON.stringify({ profile: state.profile, draftNote: state.draftNote }));
+  } catch {
+    // Profile cloud sync can still work when browser storage is unavailable.
+  }
   if (currentUser) {
     if (cloudApplicationsLoaded) {
       try {
@@ -712,6 +720,37 @@ function applyRemoteApplications(records, cachedJobs = []) {
   });
 }
 
+function applyProfileRecord(record) {
+  if (!record?.notes) return;
+  try {
+    const saved = JSON.parse(record.notes);
+    if (saved.profile && typeof saved.profile === "object") {
+      state.profile = {
+        targets: String(saved.profile.targets || ""),
+        skills: String(saved.profile.skills || ""),
+        evidence: String(saved.profile.evidence || ""),
+      };
+    }
+    state.draftNote = typeof saved.draftNote === "string" ? saved.draftNote : "";
+  } catch {
+    // Ignore an invalid legacy profile payload without affecting applications.
+  }
+}
+
+function serializeProfile() {
+  const timestamp = new Date().toISOString();
+  return {
+    user_id: currentUser.id,
+    job_id: profileRecordId,
+    status: "found",
+    applied_at: null,
+    status_updated_at: timestamp,
+    first_tracked_at: timestamp,
+    notes: JSON.stringify({ profile: state.profile, draftNote: state.draftNote }),
+    updated_at: timestamp,
+  };
+}
+
 function serializeApplication(job) {
   return {
     user_id: currentUser.id,
@@ -745,13 +784,17 @@ async function loadCloudApplications() {
       records.push(...data);
       if (data.length < 1000) break;
     }
+    const profileRecord = records.find((record) => record.job_id === profileRecordId);
+    const applicationRecords = records.filter((record) => record.job_id !== profileRecordId);
     const cachedJobs = accountSavedState(userId)?.jobs || [];
     state.jobs = loadState().jobs;
-    applyRemoteApplications(records, cachedJobs);
+    applyRemoteApplications(applicationRecords, cachedJobs);
+    applyProfileRecord(profileRecord);
     cloudApplicationsLoaded = true;
     saveState();
+    hydrateProfile();
     renderAll();
-    setSyncStatus(records.length ? `Loaded ${records.length} saved records.` : "No saved records found for this account.");
+    setSyncStatus(applicationRecords.length ? `Loaded ${applicationRecords.length} saved records.` : "No saved records found for this account.");
   } catch (error) {
     if (version === applicationLoadVersion && currentUser?.id === userId) {
       setSyncStatus(`Cloud load failed: ${controller.signal.aborted ? "Request timed out" : error.message}. Records have not been cleared.`);
@@ -786,6 +829,20 @@ async function persistApplication(job) {
     clearTimeout(timeout);
     applicationWritePending = false;
     renderAll();
+  }
+}
+
+async function persistProfile() {
+  if (!cloudReady || !currentUser || !cloudApplicationsLoaded) return false;
+  try {
+    const { error } = await supabaseClient.from("user_applications")
+      .upsert(serializeProfile(), { onConflict: "user_id,job_id" });
+    if (error) throw error;
+    setSyncStatus("Profile saved to cloud");
+    return true;
+  } catch (error) {
+    setSyncStatus(`Profile save failed: ${error.message}`);
+    return false;
   }
 }
 
@@ -959,10 +1016,8 @@ function setupNavigation() {
 function setupFilters() {
   const categoryFilter = document.getElementById("category-filter");
   const sourceFilter = document.getElementById("source-filter");
-  const addCategory = document.getElementById("add-category");
   categories.forEach((category) => {
     categoryFilter.append(new Option(category, category));
-    addCategory.append(new Option(category, category));
   });
   populateSourceFilter();
   ["job-search", "category-filter", "source-filter", "continent-filter", "status-filter", "posted-filter", "deadline-filter"].forEach((id) => {
@@ -1144,7 +1199,7 @@ function renderJobDetail() {
   document.getElementById("mark-applied").addEventListener("click", () => updateJobStatus(job.id, "applied", true));
   document.getElementById("send-studio").addEventListener("click", () => {
     document.querySelector('[data-view="studio"]').click();
-    document.getElementById("draft-note").value =
+    document.getElementById("profile-form").elements.draftNote.value =
       `Target role: ${job.title}\nOrganization: ${job.organization}\nJD link: ${job.url}\nJD focus: ${job.summary}`;
   });
 }
@@ -1286,55 +1341,24 @@ function setupCharts() {
 }
 
 function setupForms() {
-  const dialog = document.getElementById("add-job-dialog");
-  document.getElementById("open-add-job").addEventListener("click", () => {
-    if (canEditApplications()) dialog.showModal();
-    else setSyncStatus("Sign in and load saved records before adding a job.");
-  });
-  document.getElementById("add-job-form").addEventListener("submit", async (event) => {
-    if (event.submitter?.value === "cancel") return;
+  document.getElementById("profile-form").addEventListener("submit", async (event) => {
     event.preventDefault();
-    if (!canEditApplications()) return;
-    const form = event.currentTarget;
-    const data = new FormData(form);
-    const summary = data.get("summary");
-    const category = data.get("category");
-    const job = {
-      id: `job-${Date.now()}`,
-      title: data.get("title"),
-      organization: data.get("organization"),
-      category,
-      location: data.get("location"),
-      continent: inferContinent(data.get("location")),
-      deadline: data.get("deadline"),
-      summary,
-      source: "Manual",
-      postedDate: today.toISOString().slice(0, 10),
-      fitScore: guessFitScore(summary, category),
-      status: "found",
-      appliedAt: null,
-      url: "#",
-      tags: guessTags(summary),
-      responsibilities: ["Review the pasted JD and add responsibilities here in the next backend version."],
-      requirements: ["Review the pasted JD and add requirements here in the next backend version."],
-    };
-    if (currentUser && !await persistApplication(job)) return;
-    state.jobs.unshift(job);
-    selectedJobId = job.id;
-    saveState();
-    dialog.close();
-    form.reset();
-    renderAll();
-  });
-  document.getElementById("profile-form").addEventListener("submit", (event) => {
-    event.preventDefault();
+    const status = document.getElementById("profile-save-status");
+    if (currentUser && !cloudApplicationsLoaded) {
+      status.textContent = "Please wait until your account finishes loading.";
+      return;
+    }
     const data = new FormData(event.currentTarget);
     state.profile = { targets: data.get("targets"), skills: data.get("skills"), evidence: data.get("evidence") };
+    state.draftNote = String(data.get("draftNote") || "");
     saveState();
-  });
-  document.getElementById("save-draft-note").addEventListener("click", () => {
-    state.draftNote = document.getElementById("draft-note").value;
-    saveState();
+    renderSavedProfile();
+    if (currentUser) {
+      status.textContent = "Saving to your account...";
+      status.textContent = await persistProfile() ? "Profile saved to your account." : "Profile could not be saved. Please try again.";
+    } else {
+      status.textContent = "Profile saved in this browser. Sign in to sync it across devices.";
+    }
   });
   document.getElementById("reset-demo").addEventListener("click", () => {
     clearApplicationStateStorage();
@@ -1496,7 +1520,18 @@ function hydrateProfile() {
   form.elements.targets.value = state.profile.targets;
   form.elements.skills.value = state.profile.skills;
   form.elements.evidence.value = state.profile.evidence;
-  document.getElementById("draft-note").value = state.draftNote;
+  form.elements.draftNote.value = state.draftNote;
+  renderSavedProfile();
+}
+
+function renderSavedProfile() {
+  const valueOrEmpty = (value) => String(value || "").trim() || "Not added yet";
+  document.getElementById("saved-profile-targets").textContent = valueOrEmpty(state.profile.targets);
+  document.getElementById("saved-profile-skills").textContent = valueOrEmpty(state.profile.skills);
+  document.getElementById("saved-profile-evidence").textContent = valueOrEmpty(state.profile.evidence);
+  document.getElementById("saved-profile-draft").textContent = valueOrEmpty(state.draftNote);
+  document.getElementById("sidebar-profile-targets").textContent = valueOrEmpty(state.profile.targets);
+  document.getElementById("sidebar-profile-skills").textContent = valueOrEmpty(state.profile.skills);
 }
 
 function renderAll() {
@@ -1504,6 +1539,7 @@ function renderAll() {
   populateSourceFilter();
   renderOpportunities();
   renderDashboard();
+  renderSavedProfile();
 }
 
 setupNavigation();
