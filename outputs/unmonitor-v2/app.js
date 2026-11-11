@@ -1035,6 +1035,10 @@ function getFilteredJobs() {
       postedMatch &&
       deadlineMatch
     );
+  }).sort((left, right) => {
+    const leftExpired = Number.isFinite(daysUntil(left.deadline)) && daysUntil(left.deadline) < 0;
+    const rightExpired = Number.isFinite(daysUntil(right.deadline)) && daysUntil(right.deadline) < 0;
+    return Number(leftExpired) - Number(rightExpired);
   });
 }
 

@@ -90,6 +90,17 @@ const server = http.createServer((req, res) => {
       assert.equal(organizations[0], "All organizations");
       assert.equal(organizations[1], "UN Careers");
       assert.ok(!organizations.includes("Unknown organization"));
+      const deadlineOrder = await page.evaluate(() => {
+        const originalJobs = state.jobs;
+        state.jobs = [
+          { ...originalJobs[0], id: "expired-test", title: "Expired test", deadline: "2020-01-01" },
+          { ...originalJobs[1], id: "active-test", title: "Active test", deadline: "2099-01-01" },
+        ];
+        const result = getFilteredJobs().map((job) => job.id);
+        state.jobs = originalJobs;
+        return result;
+      });
+      assert.deepEqual(deadlineOrder, ["active-test", "expired-test"]);
       assert.equal(await page.evaluate(() => window.testWrites.length), 0);
       await page.locator('[data-view="dashboard"]').click();
       await page.locator('[data-range="30"]').click();
