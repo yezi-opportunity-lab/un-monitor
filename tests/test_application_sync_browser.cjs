@@ -121,7 +121,17 @@ const server = http.createServer((req, res) => {
       await page.locator('#profile-form button[type="submit"]').click();
       await page.waitForFunction(() => window.testWrites.filter((row) => row.job_id === "__unmonitor_profile__").length === 2);
       assert.equal(await page.locator(".saved-profile-card").count(), 2);
-      assert.equal(await page.locator("#saved-profile").evaluate((container) => getComputedStyle(container).justifyContent), "end");
+      const profileRowLayout = await page.locator("#saved-profile").evaluate((container) => {
+        const card = container.querySelector(".saved-profile-card");
+        return {
+          justify: getComputedStyle(container).justifyContent,
+          containerWidth: container.getBoundingClientRect().width,
+          cardWidth: card.getBoundingClientRect().width,
+        };
+      });
+      assert.equal(profileRowLayout.justify, "stretch");
+      assert.ok(Math.abs(profileRowLayout.containerWidth - profileRowLayout.cardWidth) <= 1,
+        `Saved profile does not fill row: ${JSON.stringify(profileRowLayout)}`);
       assert.ok((await page.locator('.saved-profile-card:has-text("Data profile") .saved-profile-details').innerText()).includes("Python"));
       assert.equal(await page.locator('.saved-profile-card:has-text("Data profile") .saved-profile-details')
         .evaluate((details) => getComputedStyle(details).overflowY), "auto");
