@@ -1624,12 +1624,9 @@ function renderSavedProfile() {
     card.innerHTML = `
       <div class="saved-profile-heading">
         <h4>${escapeHtml(valueOrEmpty(profile.targets))}</h4>
-        <button class="secondary-btn compact-btn" type="button" data-edit-profile="${escapeHtml(profile.id)}">Edit</button>
       </div>
-      <div class="saved-profile-section"><span>Field</span><p>${escapeHtml(valueOrEmpty(profile.name))}</p></div>
-      <div class="saved-profile-section"><span>Skill keywords</span><p>${escapeHtml(valueOrEmpty(profile.skills))}</p></div>
-      <div class="saved-profile-section"><span>Experience evidence</span><p>${escapeHtml(valueOrEmpty(profile.evidence))}</p></div>
-      <div class="saved-profile-section"><span>Application draft notes</span><p>${escapeHtml(valueOrEmpty(profile.draftNote))}</p></div>
+      <div class="saved-profile-field"><span>Field</span><p>${escapeHtml(valueOrEmpty(profile.name))}</p></div>
+      <button class="secondary-btn compact-btn" type="button" data-edit-profile="${escapeHtml(profile.id)}">Edit</button>
     `;
     container.append(card);
   });

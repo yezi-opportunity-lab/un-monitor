@@ -126,10 +126,11 @@ const server = http.createServer((req, res) => {
       await page.locator('#profile-form button[type="submit"]').click();
       await page.waitForFunction(() => window.testWrites.filter((row) => row.job_id === "__unmonitor_profile__").length === 3);
       assert.equal(await page.locator(".saved-profile-card").count(), 2);
-      assert.ok((await page.locator('.saved-profile-card:has-text("Data profile")').innerText()).includes("improved"));
       const profileWrite = await page.evaluate(() => window.testWrites.filter((row) => row.job_id === "__unmonitor_profile__").at(-1));
       assert.ok(profileWrite);
-      assert.equal(JSON.parse(profileWrite.notes).profiles.length, 2);
+      const savedProfiles = JSON.parse(profileWrite.notes).profiles;
+      assert.equal(savedProfiles.length, 2);
+      assert.ok(savedProfiles.find((profile) => profile.name === "Data profile").evidence.includes("improved"));
       await page.locator('[data-view="dashboard"]').click();
       await page.locator('[data-range="30"]').click();
       const categories = await page.locator("#category-chart").innerText();

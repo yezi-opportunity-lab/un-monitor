@@ -679,12 +679,16 @@ textarea {
 
 .saved-profile {
   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   gap: 14px;
 }
 
 .saved-profile-card {
   display: grid;
+  grid-template-rows: auto 1fr auto;
   gap: 10px;
+  aspect-ratio: 1 / 1;
+  min-height: 170px;
   border: 1px solid var(--line);
   border-radius: 8px;
   padding: 14px;
@@ -706,6 +710,9 @@ textarea {
 
 .saved-profile-heading h4 {
   margin: 0;
+  font-size: 17px;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
 }
 
 .compact-btn {
@@ -714,8 +721,23 @@ textarea {
 }
 
 .saved-profile-empty {
+  grid-column: 1 / -1;
   margin: 0;
   color: var(--muted);
+}
+
+.saved-profile-field span {
+  display: block;
+  margin-bottom: 5px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.saved-profile-field p {
+  margin: 0;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
 }
 
 .saved-profile-section {
