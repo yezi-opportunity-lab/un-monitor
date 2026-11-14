@@ -689,8 +689,10 @@ textarea {
   display: grid;
   grid-template-rows: auto auto minmax(0, 1fr) auto;
   gap: 10px;
-  aspect-ratio: 1 / 1;
   width: min(260px, 100%);
+  height: 260px;
+  min-width: 0;
+  overflow: hidden;
   border: 1px solid var(--line);
   border-radius: 8px;
   padding: 14px;
@@ -718,6 +720,7 @@ textarea {
 }
 
 .compact-btn {
+  width: 100%;
   min-height: 34px;
   padding: 6px 12px;
 }
@@ -743,8 +746,11 @@ textarea {
 }
 
 .saved-profile-details {
+  width: 100%;
   min-height: 0;
+  max-height: 100%;
   overflow-y: auto;
+  overflow-x: hidden;
   overscroll-behavior: contain;
   padding-right: 5px;
   scrollbar-width: thin;

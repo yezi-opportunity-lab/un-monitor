@@ -124,6 +124,17 @@ const server = http.createServer((req, res) => {
       assert.ok((await page.locator('.saved-profile-card:has-text("Data profile") .saved-profile-details').innerText()).includes("Python"));
       assert.equal(await page.locator('.saved-profile-card:has-text("Data profile") .saved-profile-details')
         .evaluate((details) => getComputedStyle(details).overflowY), "auto");
+      const compactProfileBounds = await page.locator('.saved-profile-card:has-text("Data profile")').evaluate((card) => {
+        const cardBox = card.getBoundingClientRect();
+        const editBox = card.querySelector("[data-edit-profile]").getBoundingClientRect();
+        return {
+          height: cardBox.height,
+          overflow: card.scrollHeight > card.clientHeight + 1,
+          editInside: editBox.top >= cardBox.top && editBox.bottom <= cardBox.bottom + 1,
+        };
+      });
+      assert.ok(compactProfileBounds.height <= 261 && !compactProfileBounds.overflow && compactProfileBounds.editInside,
+        `Saved profile card overflow: ${JSON.stringify(compactProfileBounds)}`);
       await page.locator('.saved-profile-card:has-text("Data profile") [data-edit-profile]').click();
       await page.locator('#profile-form [name="evidence"]').fill("Built and improved a monitoring dashboard.");
       await page.locator('#profile-form button[type="submit"]').click();
