@@ -1275,7 +1275,6 @@ function renderDashboard() {
 function renderLastUpdated() {
   const stamp = document.getElementById("last-updated");
   const generatedAt = window.UN_MONITOR_LIVE_JOBS?.generatedAt;
-  const errors = window.UN_MONITOR_LIVE_JOBS?.errors || [];
   if (!stamp) return;
   if (!generatedAt) {
     stamp.textContent = "Last updated: demo data";
@@ -1288,7 +1287,7 @@ function renderLastUpdated() {
     hour: "2-digit",
     minute: "2-digit",
   });
-  stamp.textContent = `Last updated: ${formatted}${errors.length ? ` (${errors.length} source warning${errors.length > 1 ? "s" : ""})` : ""}`;
+  stamp.textContent = `Last updated: ${formatted}`;
 }
 
 function renderApplicationChart() {

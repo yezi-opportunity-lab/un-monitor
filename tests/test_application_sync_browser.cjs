@@ -82,6 +82,7 @@ const server = http.createServer((req, res) => {
       await page.route("https://*.supabase.co/**", () => { throw new Error("Test must not contact Supabase"); });
       await page.goto(`http://127.0.0.1:${server.address().port}/`);
       await page.waitForFunction(() => document.getElementById("sync-status").textContent === "Loaded 26 saved records.");
+      assert.ok(!(await page.locator("#last-updated").innerText()).includes("source warning"));
       assert.equal(await page.locator("#auth-status").innerText(), "test@example.test");
       assert.equal(await page.locator("#metric-applied-total").innerText(), "26");
       assert.equal(await page.locator('#status-filter option[value="saved"]').innerText(), "Saved");
