@@ -228,16 +228,16 @@
               </div>
               <form class="profile-form" id="profile-form">
                 <label>
-                  <span>Profile name</span>
-                  <input name="profileName" placeholder="e.g. Data internships" required />
+                  <span>Position</span>
+                  <input name="targets" placeholder="e.g. Data Scientist / AI Engineer" required />
                 </label>
                 <label>
-                  <span>Target tracks</span>
-                  <input name="targets" value="Economics, Data, Programme" />
+                  <span>Field</span>
+                  <input name="profileName" placeholder="e.g. Human Rights / Peacekeeping / Law" required />
                 </label>
                 <label>
                   <span>Skill keywords</span>
-                  <textarea name="skills">Python, Excel, policy research, data visualization, SDGs, report writing</textarea>
+                  <textarea class="skill-keywords-input" name="skills">Python, Excel, policy research, data visualization, SDGs, report writing</textarea>
                 </label>
                 <label>
                   <span>Experience evidence</span>
@@ -245,7 +245,7 @@
                 </label>
                 <label>
                   <span>Application draft notes</span>
-                  <textarea name="draftNote" placeholder="Save motivation-letter ideas, Inspira answers, or tailoring notes here."></textarea>
+                  <textarea class="draft-notes-input" name="draftNote" placeholder="Save motivation-letter ideas, Inspira answers, or tailoring notes here."></textarea>
                 </label>
                 <div class="profile-form-actions">
                   <button class="primary-btn" id="save-profile" type="submit">Save as new profile</button>
@@ -273,6 +273,6 @@
     <script src="./supabase-config.js"></script>
     <script src="./jobs-data.js?v=20260920-unesco"></script>
     <script src="./jobs-catalog.js?v=20260922-history"></script>
-    <script src="./app.js?v=20261111-multiple-profiles"></script>
+    <script src="./app.js?v=20261114-profile-fields"></script>
   </body>
 </html>

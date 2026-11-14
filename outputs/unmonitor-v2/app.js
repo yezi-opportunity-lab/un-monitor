@@ -1427,7 +1427,7 @@ function setupForms() {
     state.profile = { targets: profile.targets, skills: profile.skills, evidence: profile.evidence };
     state.draftNote = profile.draftNote;
     hydrateProfile();
-    document.getElementById("profile-save-status").textContent = `Editing ${profile.name}`;
+    document.getElementById("profile-save-status").textContent = `Editing ${profile.targets || profile.name}`;
     document.getElementById("profile-form").scrollIntoView({ behavior: "smooth", block: "start" });
   });
   document.getElementById("reset-demo").addEventListener("click", () => {
@@ -1623,10 +1623,10 @@ function renderSavedProfile() {
     card.className = `saved-profile-card ${profile.id === editingProfileId ? "editing" : ""}`;
     card.innerHTML = `
       <div class="saved-profile-heading">
-        <h4>${escapeHtml(profile.name)}</h4>
+        <h4>${escapeHtml(valueOrEmpty(profile.targets))}</h4>
         <button class="secondary-btn compact-btn" type="button" data-edit-profile="${escapeHtml(profile.id)}">Edit</button>
       </div>
-      <div class="saved-profile-section"><span>Target tracks</span><p>${escapeHtml(valueOrEmpty(profile.targets))}</p></div>
+      <div class="saved-profile-section"><span>Field</span><p>${escapeHtml(valueOrEmpty(profile.name))}</p></div>
       <div class="saved-profile-section"><span>Skill keywords</span><p>${escapeHtml(valueOrEmpty(profile.skills))}</p></div>
       <div class="saved-profile-section"><span>Experience evidence</span><p>${escapeHtml(valueOrEmpty(profile.evidence))}</p></div>
       <div class="saved-profile-section"><span>Application draft notes</span><p>${escapeHtml(valueOrEmpty(profile.draftNote))}</p></div>
