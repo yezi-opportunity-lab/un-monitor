@@ -121,6 +121,9 @@ const server = http.createServer((req, res) => {
       await page.locator('#profile-form button[type="submit"]').click();
       await page.waitForFunction(() => window.testWrites.filter((row) => row.job_id === "__unmonitor_profile__").length === 2);
       assert.equal(await page.locator(".saved-profile-card").count(), 2);
+      assert.ok((await page.locator('.saved-profile-card:has-text("Data profile") .saved-profile-details').innerText()).includes("Python"));
+      assert.equal(await page.locator('.saved-profile-card:has-text("Data profile") .saved-profile-details')
+        .evaluate((details) => getComputedStyle(details).overflowY), "auto");
       await page.locator('.saved-profile-card:has-text("Data profile") [data-edit-profile]').click();
       await page.locator('#profile-form [name="evidence"]').fill("Built and improved a monitoring dashboard.");
       await page.locator('#profile-form button[type="submit"]').click();

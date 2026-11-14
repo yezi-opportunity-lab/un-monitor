@@ -1626,6 +1626,11 @@ function renderSavedProfile() {
         <h4>${escapeHtml(valueOrEmpty(profile.targets))}</h4>
       </div>
       <div class="saved-profile-field"><span>Field</span><p>${escapeHtml(valueOrEmpty(profile.name))}</p></div>
+      <div class="saved-profile-details" tabindex="0" aria-label="Profile details">
+        <div class="saved-profile-preview"><span>Skill keywords</span><p>${escapeHtml(valueOrEmpty(profile.skills))}</p></div>
+        <div class="saved-profile-preview"><span>Experience evidence</span><p>${escapeHtml(valueOrEmpty(profile.evidence))}</p></div>
+        <div class="saved-profile-preview"><span>Application draft notes</span><p>${escapeHtml(valueOrEmpty(profile.draftNote))}</p></div>
+      </div>
       <button class="secondary-btn compact-btn" type="button" data-edit-profile="${escapeHtml(profile.id)}">Edit</button>
     `;
     container.append(card);

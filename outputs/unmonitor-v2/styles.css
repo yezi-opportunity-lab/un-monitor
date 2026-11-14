@@ -679,16 +679,18 @@ textarea {
 
 .saved-profile {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(220px, 260px));
   gap: 14px;
+  align-items: start;
+  justify-content: start;
 }
 
 .saved-profile-card {
   display: grid;
-  grid-template-rows: auto 1fr auto;
+  grid-template-rows: auto auto minmax(0, 1fr) auto;
   gap: 10px;
   aspect-ratio: 1 / 1;
-  min-height: 170px;
+  width: min(260px, 100%);
   border: 1px solid var(--line);
   border-radius: 8px;
   padding: 14px;
@@ -737,6 +739,36 @@ textarea {
 .saved-profile-field p {
   margin: 0;
   line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+
+.saved-profile-details {
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 5px;
+  scrollbar-width: thin;
+}
+
+.saved-profile-preview + .saved-profile-preview {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.saved-profile-preview span {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.saved-profile-preview p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.4;
+  white-space: pre-wrap;
   overflow-wrap: anywhere;
 }
 
