@@ -13064,6 +13064,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "286292",
+      "title": "Artificial Intelligence Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Tech & Digital",
+      "location": "THE HAGUE",
+      "continent": "Europe",
+      "deadline": "2026-12-19",
+      "postedDate": "2026-11-14",
+      "url": "https://careers.un.org/jobSearchDescription/286292?language=en",
+      "tags": [
+        "digital"
+      ],
+      "summary": "Technical or digital role supporting software, ICT, digital transformation, AI, GIS, or technology-enabled workflows. Source: UN Careers. Location: THE HAGUE. Title signal: Artificial Intelligence Intern.",
+      "responsibilities": [
+        "Support digital tools, systems, prototypes, or technical documentation.",
+        "Assist with requirements gathering, testing, implementation support, or workflow mapping.",
+        "Contribute to technology-enabled analysis, automation, or knowledge products."
+      ],
+      "requirements": [
+        "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
+        "Relevant software, web, database, GIS, or ICT skills.",
+        "Ability to explain technical work clearly to non-technical stakeholders."
+      ]
+    },
+    {
       "id": "286303",
       "title": "Intern: Data Analysis and Results Management",
       "organization": "UN Careers",
@@ -16064,6 +16090,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288319",
+      "title": "Protocol Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "BEIJING",
+      "continent": "Asia",
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-12",
+      "url": "https://careers.un.org/jobSearchDescription/288319?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: BEIJING. Title signal: Protocol Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "288393",
       "title": "Private Markets Risk Senior Research Intern",
       "organization": "UN Careers",
@@ -17306,7 +17358,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "Bangkok, Thailand",
       "continent": "Asia",
-      "deadline": "2026-11-16",
+      "deadline": "2026-11-27",
       "postedDate": "2026-06-29",
       "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37492",
       "tags": [
