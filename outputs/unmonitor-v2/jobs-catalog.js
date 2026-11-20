@@ -16657,6 +16657,55 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288542",
+      "title": "Intern-Partnerships",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Partnerships",
+      "location": "BANGKOK",
+      "continent": "Asia",
+      "deadline": "2026-12-07",
+      "postedDate": "2026-11-20",
+      "url": "https://careers.un.org/jobSearchDescription/288542?language=en",
+      "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: UN Careers. Location: BANGKOK. Title signal: Intern-Partnerships.",
+      "responsibilities": [
+        "Support donor/stakeholder mapping and external-relations tracking.",
+        "Prepare briefing notes, partner profiles, presentations, or visibility material.",
+        "Assist with resource-mobilization and partnership documentation."
+      ],
+      "requirements": [
+        "Strong research, writing, and stakeholder-analysis skills.",
+        "Interest in partnerships, fundraising, external relations, or private-sector engagement.",
+        "Ability to synthesize information for senior audiences."
+      ]
+    },
+    {
+      "id": "288547",
+      "title": "Project Management Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "INCHEON CITY",
+      "continent": "Asia",
+      "deadline": "2026-11-26",
+      "postedDate": "2026-11-20",
+      "url": "https://careers.un.org/jobSearchDescription/288547?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: INCHEON CITY. Title signal: Project Management Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "288608",
       "title": "Intern - Human Resources Administration",
       "organization": "UN Careers",
@@ -22682,6 +22731,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "UNIDO-1377671155",
+      "title": "Project Associate",
+      "organization": "UNIDO",
+      "source": "UNIDO",
+      "category": "Programme & Project",
+      "location": "Vienna, Austria",
+      "continent": "Europe",
+      "deadline": "2026-12-10",
+      "postedDate": "2026-06-29",
+      "url": "https://careers.unido.org/job/Vienna-Project-Associate/1377671155/",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Project Associate.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
+        "Confirm internship eligibility on the official vacancy page."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "UNU-2739419",
       "title": "REMOTE Internship: Research Intern - Neuroscience, Learning and AI in Higher Education",
       "organization": "UNU",
@@ -23620,7 +23696,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Freetown, Sierra Leone, The Rep. Of",
       "continent": "Remote / Global",
       "deadline": "2026-11-23",
-      "postedDate": "2026-11-09",
+      "postedDate": "2026-11-10",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "summary": "Humanitarian, migration, protection, health, nutrition, education, or social-policy role supporting vulnerable populations. Source: WFP. Location: Freetown, Sierra Leone, The Rep. Of. Title signal: Nutrition Intern.",
       "responsibilities": [
@@ -23643,7 +23719,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Rome, Italy",
       "continent": "Europe",
       "deadline": "2026-11-26",
-      "postedDate": "2026-11-11",
+      "postedDate": "2026-11-12",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "programme"
@@ -23695,7 +23771,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Brussels, Belgium",
       "continent": "Europe",
       "deadline": "2026-11-30",
-      "postedDate": "2026-11-16",
+      "postedDate": "2026-11-17",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: WFP. Location: Brussels, Belgium. Title signal: Intern (External relations team, WFP Brussels).",
       "responsibilities": [
