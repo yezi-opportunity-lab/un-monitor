@@ -13612,6 +13612,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "286490",
+      "title": "Legal Affairs Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Legal & Human Rights",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-12-10",
+      "postedDate": "2026-11-20",
+      "url": "https://careers.un.org/jobSearchDescription/286490?language=en",
+      "tags": [
+        "legal"
+      ],
+      "summary": "Legal, governance, or human-rights role focused on research, analysis, documentation, and support to legal/policy teams. Source: UN Careers. Location: NEW YORK. Title signal: Legal Affairs Intern.",
+      "responsibilities": [
+        "Conduct legal, governance, or human-rights desk research.",
+        "Summarize documents, cases, policies, or country developments.",
+        "Support reports, briefings, meeting preparation, or documentation workflows."
+      ],
+      "requirements": [
+        "Background in law, international relations, human rights, governance, or related field.",
+        "Strong legal/policy research and concise writing skills.",
+        "Attention to detail and ability to handle sensitive material."
+      ]
+    },
+    {
       "id": "286491",
       "title": "Socia Media Intern",
       "organization": "UN Careers",
@@ -15475,6 +15501,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287756",
+      "title": "Counter Terrorism Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "VIENNA",
+      "continent": "Europe",
+      "deadline": "2026-11-29",
+      "postedDate": "2026-11-20",
+      "url": "https://careers.un.org/jobSearchDescription/287756?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: VIENNA. Title signal: Counter Terrorism Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "287757",
       "title": "Intern on Climate Action",
       "organization": "UN Careers",
@@ -16483,6 +16535,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288335",
+      "title": "Team Assistant - Protocol - Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-11-27",
+      "postedDate": "2026-11-20",
+      "url": "https://careers.un.org/jobSearchDescription/288335?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: NAIROBI. Title signal: Team Assistant - Protocol - Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "288393",
       "title": "Private Markets Risk Senior Research Intern",
       "organization": "UN Careers",
@@ -16732,6 +16810,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288614",
+      "title": "Intern - Programme Management (Inclusive Travel Coordination and Human Resources)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Admin, Finance & HR",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-12-02",
+      "postedDate": "2026-11-19",
+      "url": "https://careers.un.org/jobSearchDescription/288614?language=en",
+      "tags": [
+        "finance",
+        "programme"
+      ],
+      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UN Careers. Location: NEW YORK. Title signal: Intern - Programme Management (Inclusive Travel Coordination and Human Resources).",
+      "responsibilities": [
+        "Support documentation, tracking, and daily operational workflows.",
+        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
+        "Prepare records, tables, notes, and process follow-up material."
+      ],
+      "requirements": [
+        "Organization, attention to detail, Excel, and documentation skills.",
+        "Interest in operations, finance, HR, compliance, administration, or procurement.",
+        "Ability to work carefully with procedures and records."
+      ]
+    },
+    {
       "id": "288672",
       "title": "Intern in the Sustainable Environmental Management (SEM) Group",
       "organization": "UN Careers",
@@ -16752,6 +16857,32 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Background or strong interest in environment, climate, energy, sustainability, or development.",
         "Research, writing, and data-handling skills.",
         "Ability to connect technical topics with policy or programme needs."
+      ]
+    },
+    {
+      "id": "288738",
+      "title": "Information Systems Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Tech & Digital",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-11-28",
+      "postedDate": "2026-11-20",
+      "url": "https://careers.un.org/jobSearchDescription/288738?language=en",
+      "tags": [
+        "digital"
+      ],
+      "summary": "Technical or digital role supporting software, ICT, digital transformation, AI, GIS, or technology-enabled workflows. Source: UN Careers. Location: NAIROBI. Title signal: Information Systems Intern.",
+      "responsibilities": [
+        "Support digital tools, systems, prototypes, or technical documentation.",
+        "Assist with requirements gathering, testing, implementation support, or workflow mapping.",
+        "Contribute to technology-enabled analysis, automation, or knowledge products."
+      ],
+      "requirements": [
+        "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
+        "Relevant software, web, database, GIS, or ICT skills.",
+        "Ability to explain technical work clearly to non-technical stakeholders."
       ]
     },
     {
@@ -18538,6 +18669,56 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Organization, attention to detail, Excel, and documentation skills.",
         "Interest in operations, finance, HR, compliance, administration, or procurement.",
         "Ability to work carefully with procedures and records."
+      ]
+    },
+    {
+      "id": "UNDP-38132",
+      "title": "Quantitative Research Intern - Crisis Response and Resilience Portfolio - Office Based",
+      "organization": "UNDP",
+      "source": "UNDP",
+      "category": "Programme & Project",
+      "location": "Istanbul, Türkiye",
+      "continent": "Remote / Global",
+      "deadline": "2026-12-14",
+      "postedDate": "2026-06-29",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38132",
+      "tags": [
+        "research",
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNDP. Location: Istanbul, Türkiye. Title signal: Quantitative Research Intern - Crisis Response and Resilience Portfolio - Office Based.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "UNDP-38157",
+      "title": "National Intern - Regional Trade Associate",
+      "organization": "UNDP",
+      "source": "UNDP",
+      "category": "Economics & Development",
+      "location": "Addis Ababa, Ethiopia",
+      "continent": "Africa",
+      "deadline": "2026-11-27",
+      "postedDate": "2026-06-29",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38157",
+      "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UNDP. Location: Addis Ababa, Ethiopia. Title signal: National Intern - Regional Trade Associate.",
+      "responsibilities": [
+        "Support policy research, background notes, and evidence synthesis.",
+        "Analyze programme, economic, budget, or development information for team outputs.",
+        "Prepare short written products such as briefs, talking points, tables, and presentations."
+      ],
+      "requirements": [
+        "Background in economics, public policy, development, social sciences, or a related field.",
+        "Strong research, writing, Excel, and analytical skills.",
+        "Interest in UN development priorities and sustainable development issues."
       ]
     },
     {
@@ -22755,6 +22936,33 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Strong organization, writing, coordination, and research skills.",
         "Interest in project/programme management and UN operational workflows.",
         "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "UNIDO-1377816655",
+      "title": "Project Administrator (Roster)",
+      "organization": "UNIDO",
+      "source": "UNIDO",
+      "category": "Admin, Finance & HR",
+      "location": "Vienna, Austria",
+      "continent": "Europe",
+      "deadline": "2026-12-06",
+      "postedDate": "2026-06-29",
+      "url": "https://careers.unido.org/job/Vienna-Project-Administrator-%28Roster%29/1377816655/",
+      "tags": [
+        "finance"
+      ],
+      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UNIDO. Location: Vienna, Austria. Title signal: Project Administrator (Roster).",
+      "responsibilities": [
+        "Support documentation, tracking, and daily operational workflows.",
+        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
+        "Prepare records, tables, notes, and process follow-up material.",
+        "Confirm internship eligibility on the official vacancy page."
+      ],
+      "requirements": [
+        "Organization, attention to detail, Excel, and documentation skills.",
+        "Interest in operations, finance, HR, compliance, administration, or procurement.",
+        "Ability to work carefully with procedures and records."
       ]
     },
     {
