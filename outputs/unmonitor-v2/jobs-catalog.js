@@ -14575,6 +14575,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287059",
+      "title": "News Writing / Reporting - Public Information Intern - News and Content - Kiswahili",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-12-21",
+      "postedDate": "2026-11-22",
+      "url": "https://careers.un.org/jobSearchDescription/287059?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: NEW YORK. Title signal: News Writing / Reporting - Public Information Intern - News and Content - Kiswahili.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
       "id": "287078",
       "title": "Economic Affairs Intern",
       "organization": "UN Careers",
@@ -18730,7 +18757,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-11-22",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-All-SectorsBureaus/1331682557/",
       "tags": [
         "programme"
@@ -18809,7 +18836,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-11-22",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Communications-and-Public-Engagement/1347728357/",
       "tags": [
         "communications",
@@ -18836,7 +18863,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-11-22",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Culture-Sector/1347730257/",
       "tags": [
         "programme"
@@ -18862,7 +18889,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-11-22",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Digital-Business-Solutions/1347770857/",
       "tags": [
         "digital"
@@ -18888,7 +18915,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-11-22",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Education-Sector/1347773857/",
       "summary": "Humanitarian, migration, protection, health, nutrition, education, or social-policy role supporting vulnerable populations. Source: UNESCO. Location: Multiple, Multiple. Title signal: INTERNSHIP: Education Sector.",
       "responsibilities": [
@@ -18911,7 +18938,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Paris, France",
       "continent": "Europe",
       "deadline": "2026-06-30",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-11-22",
       "url": "https://careers.unesco.org/job/Paris-INTERNSHIP-Division-of-Internal-Oversight-Services/1347780957/",
       "tags": [
         "programme"
@@ -18937,7 +18964,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-11-22",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Governing-Bodies-Secretariat/1347787357/",
       "tags": [
         "programme"
@@ -18963,7 +18990,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Multiple, Multiple",
       "continent": "Remote / Global",
       "deadline": "2026-12-31",
-      "postedDate": "2026-10-24",
+      "postedDate": "2026-11-22",
       "url": "https://careers.unesco.org/job/Multiple-INTERNSHIP-Intergovernmental-Oceanographic-Commission/1347790957/",
       "tags": [
         "programme"
