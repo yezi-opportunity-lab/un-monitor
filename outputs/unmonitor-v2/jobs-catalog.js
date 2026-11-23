@@ -16811,6 +16811,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288580",
+      "title": "Public Information Intern (Outreach)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "VIENNA",
+      "continent": "Europe",
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288580?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: VIENNA. Title signal: Public Information Intern (Outreach).",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
       "id": "288608",
       "title": "Intern - Human Resources Administration",
       "organization": "UN Careers",
@@ -16910,6 +16937,110 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
         "Relevant software, web, database, GIS, or ICT skills.",
         "Ability to explain technical work clearly to non-technical stakeholders."
+      ]
+    },
+    {
+      "id": "288803",
+      "title": "Drug Control Specialist Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "BANGKOK",
+      "continent": "Asia",
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288803?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: BANGKOK. Title signal: Drug Control Specialist Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "288808",
+      "title": "Drug Control (Drug Policy Studies) Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Economics & Development",
+      "location": "BANGKOK",
+      "continent": "Asia",
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288808?language=en",
+      "tags": [
+        "policy"
+      ],
+      "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: BANGKOK. Title signal: Drug Control (Drug Policy Studies) Intern.",
+      "responsibilities": [
+        "Support policy research, background notes, and evidence synthesis.",
+        "Analyze programme, economic, budget, or development information for team outputs.",
+        "Prepare short written products such as briefs, talking points, tables, and presentations."
+      ],
+      "requirements": [
+        "Background in economics, public policy, development, social sciences, or a related field.",
+        "Strong research, writing, Excel, and analytical skills.",
+        "Interest in UN development priorities and sustainable development issues."
+      ]
+    },
+    {
+      "id": "288811",
+      "title": "Cybercrime Law and Technology Specialist Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "BANGKOK",
+      "continent": "Asia",
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288811?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: BANGKOK. Title signal: Cybercrime Law and Technology Specialist Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "288812",
+      "title": "Transnational Organized Crime Specialist Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "BANGKOK",
+      "continent": "Asia",
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288812?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: BANGKOK. Title signal: Transnational Organized Crime Specialist Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
       ]
     },
     {
@@ -23931,7 +24062,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Freetown, Sierra Leone, The Rep. Of",
       "continent": "Remote / Global",
       "deadline": "2026-11-23",
-      "postedDate": "2026-11-10",
+      "postedDate": "2026-11-09",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "summary": "Humanitarian, migration, protection, health, nutrition, education, or social-policy role supporting vulnerable populations. Source: WFP. Location: Freetown, Sierra Leone, The Rep. Of. Title signal: Nutrition Intern.",
       "responsibilities": [
@@ -23954,7 +24085,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Rome, Italy",
       "continent": "Europe",
       "deadline": "2026-11-26",
-      "postedDate": "2026-11-12",
+      "postedDate": "2026-11-11",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "tags": [
         "programme"
@@ -24006,7 +24137,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "location": "Brussels, Belgium",
       "continent": "Europe",
       "deadline": "2026-11-30",
-      "postedDate": "2026-11-17",
+      "postedDate": "2026-11-16",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: WFP. Location: Brussels, Belgium. Title signal: Intern (External relations team, WFP Brussels).",
       "responsibilities": [
