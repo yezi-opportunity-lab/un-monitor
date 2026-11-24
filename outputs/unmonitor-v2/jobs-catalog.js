@@ -16268,6 +16268,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288203",
+      "title": "Public Information Intern: International Development Cooperation",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288203?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: NEW YORK. Title signal: Public Information Intern: International Development Cooperation.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
       "id": "288214",
       "title": "Communications Intern",
       "organization": "UN Careers",
@@ -16641,6 +16668,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288488",
+      "title": "Intern - Programme support",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-12-07",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288488?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: NAIROBI. Title signal: Intern - Programme support.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "288489",
       "title": "Environmental Affairs Intern",
       "organization": "UN Careers",
@@ -16762,6 +16815,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288522",
+      "title": "Intern - Data Science, Information Integrity Unit",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Data & Analytics",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288522?language=en",
+      "tags": [
+        "data"
+      ],
+      "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: NEW YORK. Title signal: Intern - Data Science, Information Integrity Unit.",
+      "responsibilities": [
+        "Clean, organize, and analyze datasets or monitoring information.",
+        "Support dashboards, indicators, visualizations, reports, or information-management products.",
+        "Document data workflows and help teams use evidence for decision-making."
+      ],
+      "requirements": [
+        "Experience with Excel and ideally Python, SQL, R, Power BI, Tableau, GIS, or similar tools.",
+        "Comfort with data cleaning, structured analysis, and documentation.",
+        "Ability to translate data into clear written or visual outputs."
+      ]
+    },
+    {
       "id": "288542",
       "title": "Intern-Partnerships",
       "organization": "UN Careers",
@@ -16838,6 +16917,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288591",
+      "title": "Intern - Political Affairs, Information Integrity Unit",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288591?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: NEW YORK. Title signal: Intern - Political Affairs, Information Integrity Unit.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "288608",
       "title": "Intern - Human Resources Administration",
       "organization": "UN Careers",
@@ -16888,6 +16993,60 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Organization, attention to detail, Excel, and documentation skills.",
         "Interest in operations, finance, HR, compliance, administration, or procurement.",
         "Ability to work carefully with procedures and records."
+      ]
+    },
+    {
+      "id": "288653",
+      "title": "Public Information Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-12-07",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288653?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: NAIROBI. Title signal: Public Information Intern.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "288670",
+      "title": "Intern - Programme Support - Environmental Governance and Peacebuilding in Somalia",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Legal & Human Rights",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "url": "https://careers.un.org/jobSearchDescription/288670?language=en",
+      "tags": [
+        "legal",
+        "programme"
+      ],
+      "summary": "Legal, governance, or human-rights role focused on research, analysis, documentation, and support to legal/policy teams. Source: UN Careers. Location: NAIROBI. Title signal: Intern - Programme Support - Environmental Governance and Peacebuilding in Somalia.",
+      "responsibilities": [
+        "Conduct legal, governance, or human-rights desk research.",
+        "Summarize documents, cases, policies, or country developments.",
+        "Support reports, briefings, meeting preparation, or documentation workflows."
+      ],
+      "requirements": [
+        "Background in law, international relations, human rights, governance, or related field.",
+        "Strong legal/policy research and concise writing skills.",
+        "Attention to detail and ability to handle sensitive material."
       ]
     },
     {
@@ -17486,6 +17645,29 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Strong organization, writing, coordination, and research skills.",
         "Interest in project/programme management and UN operational workflows.",
         "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "ITU-1378257955",
+      "title": "Unpaid Internship - Internships & Partnerships Process Innovation and AI Intern",
+      "organization": "ITU",
+      "source": "ITU",
+      "category": "Partnerships",
+      "location": "Geneva, Switzerland",
+      "continent": "Europe",
+      "deadline": "2026-12-08",
+      "postedDate": "2026-11-24",
+      "url": "https://jobs.itu.int/job/Geneva-Unpaid-Internship-Internships-&-Partnerships-Process-Innovation-and-AI-Intern/1378257955/",
+      "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: ITU. Location: Geneva, Switzerland. Title signal: Unpaid Internship - Internships & Partnerships Process Innovation and AI Intern.",
+      "responsibilities": [
+        "Support donor/stakeholder mapping and external-relations tracking.",
+        "Prepare briefing notes, partner profiles, presentations, or visibility material.",
+        "Assist with resource-mobilization and partnership documentation."
+      ],
+      "requirements": [
+        "Strong research, writing, and stakeholder-analysis skills.",
+        "Interest in partnerships, fundraising, external relations, or private-sector engagement.",
+        "Ability to synthesize information for senior audiences."
       ]
     },
     {
@@ -18260,7 +18442,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "Bishkek, Kyrgyzstan",
       "continent": "Asia",
-      "deadline": "2026-10-27",
+      "deadline": "2026-12-06",
       "postedDate": "2026-06-29",
       "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37493",
       "tags": [
@@ -18877,6 +19059,32 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Background in economics, public policy, development, social sciences, or a related field.",
         "Strong research, writing, Excel, and analytical skills.",
         "Interest in UN development priorities and sustainable development issues."
+      ]
+    },
+    {
+      "id": "UNDP-38238",
+      "title": "Governance Intern (Nationals only)",
+      "organization": "UNDP",
+      "source": "UNDP",
+      "category": "Legal & Human Rights",
+      "location": "Ulan Bator, Mongolia",
+      "continent": "Remote / Global",
+      "deadline": "2026-12-01",
+      "postedDate": "2026-06-29",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38238",
+      "tags": [
+        "legal"
+      ],
+      "summary": "Legal, governance, or human-rights role focused on research, analysis, documentation, and support to legal/policy teams. Source: UNDP. Location: Ulan Bator, Mongolia. Title signal: Governance Intern (Nationals only).",
+      "responsibilities": [
+        "Conduct legal, governance, or human-rights desk research.",
+        "Summarize documents, cases, policies, or country developments.",
+        "Support reports, briefings, meeting preparation, or documentation workflows."
+      ],
+      "requirements": [
+        "Background in law, international relations, human rights, governance, or related field.",
+        "Strong legal/policy research and concise writing skills.",
+        "Attention to detail and ability to handle sensitive material."
       ]
     },
     {
@@ -23124,6 +23332,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "UNIDO-1378264155",
+      "title": "Intern - COR/OMD",
+      "organization": "UNIDO",
+      "source": "UNIDO",
+      "category": "Programme & Project",
+      "location": "Vienna, Austria",
+      "continent": "Europe",
+      "deadline": "2026-12-01",
+      "postedDate": "2026-06-29",
+      "url": "https://careers.unido.org/job/Vienna-Intern-COROMD/1378264155/",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Intern - COR/OMD.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "UNU-2739419",
       "title": "REMOTE Internship: Research Intern - Neuroscience, Learning and AI in Higher Education",
       "organization": "UNU",
@@ -24140,6 +24374,29 @@ window.UN_MONITOR_JOB_CATALOG = {
       "postedDate": "2026-11-16",
       "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
       "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: WFP. Location: Brussels, Belgium. Title signal: Intern (External relations team, WFP Brussels).",
+      "responsibilities": [
+        "Support donor/stakeholder mapping and external-relations tracking.",
+        "Prepare briefing notes, partner profiles, presentations, or visibility material.",
+        "Assist with resource-mobilization and partnership documentation."
+      ],
+      "requirements": [
+        "Strong research, writing, and stakeholder-analysis skills.",
+        "Interest in partnerships, fundraising, external relations, or private-sector engagement.",
+        "Ability to synthesize information for senior audiences."
+      ]
+    },
+    {
+      "id": "WFP-JR128640",
+      "title": "Internship - Partnerships Team, WFP London Global Office, UK",
+      "organization": "WFP",
+      "source": "WFP",
+      "category": "Partnerships",
+      "location": "Rome, Italy",
+      "continent": "Europe",
+      "deadline": "2026-12-07",
+      "postedDate": "2026-11-23",
+      "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
+      "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: WFP. Location: Rome, Italy. Title signal: Internship - Partnerships Team, WFP London Global Office, UK.",
       "responsibilities": [
         "Support donor/stakeholder mapping and external-relations tracking.",
         "Prepare briefing notes, partner profiles, presentations, or visibility material.",

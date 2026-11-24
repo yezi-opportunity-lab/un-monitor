@@ -1,5 +1,5 @@
 window.UN_MONITOR_LIVE_JOBS = {
-  "generatedAt": "2026-11-23T08:29:49",
+  "generatedAt": "2026-11-24T10:37:17",
   "errors": [
     "UNICEF: HTTPError('404 Client Error: Not Found for url: https://jobs.unicef.org/en-us/filter/?search-keyword=&pay-scale=internship'); retained 9 previous jobs.",
     "UNHCR: HTTPError('429 Client Error: Too Many Requests for url: https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/job/Nairobi-CO-Kenya/Administrative-Intern_JR2669061-1'); retained 1 previous jobs."
@@ -428,88 +428,6 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "287786",
-      "title": "Data Analysis Intern",
-      "organization": "UN Careers",
-      "location": "BONN",
-      "continent": "Remote / Global",
-      "source": "UN Careers",
-      "category": "Data & Analytics",
-      "tags": [
-        "data"
-      ],
-      "deadline": "2026-11-23",
-      "postedDate": "2026-11-06",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.un.org/jobSearchDescription/287786?language=en",
-      "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: BONN. Title signal: Data Analysis Intern.",
-      "responsibilities": [
-        "Clean, organize, and analyze datasets or monitoring information.",
-        "Support dashboards, indicators, visualizations, reports, or information-management products.",
-        "Document data workflows and help teams use evidence for decision-making."
-      ],
-      "requirements": [
-        "Experience with Excel and ideally Python, SQL, R, Power BI, Tableau, GIS, or similar tools.",
-        "Comfort with data cleaning, structured analysis, and documentation.",
-        "Ability to translate data into clear written or visual outputs."
-      ]
-    },
-    {
-      "id": "287969",
-      "title": "INTERN - HUMAN RIGHTS",
-      "organization": "UN Careers",
-      "location": "GENEVA",
-      "continent": "Europe",
-      "source": "UN Careers",
-      "category": "Legal & Human Rights",
-      "tags": [
-        "legal"
-      ],
-      "deadline": "2026-11-23",
-      "postedDate": "2026-11-09",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.un.org/jobSearchDescription/287969?language=en",
-      "summary": "Legal, governance, or human-rights role focused on research, analysis, documentation, and support to legal/policy teams. Source: UN Careers. Location: GENEVA. Title signal: INTERN - HUMAN RIGHTS.",
-      "responsibilities": [
-        "Conduct legal, governance, or human-rights desk research.",
-        "Summarize documents, cases, policies, or country developments.",
-        "Support reports, briefings, meeting preparation, or documentation workflows."
-      ],
-      "requirements": [
-        "Background in law, international relations, human rights, governance, or related field.",
-        "Strong legal/policy research and concise writing skills.",
-        "Attention to detail and ability to handle sensitive material."
-      ]
-    },
-    {
-      "id": "WFP-JR128261",
-      "title": "Nutrition Intern",
-      "organization": "WFP",
-      "location": "Freetown, Sierra Leone, The Rep. Of",
-      "continent": "Remote / Global",
-      "source": "WFP",
-      "category": "Humanitarian & Protection",
-      "tags": [],
-      "deadline": "2026-11-23",
-      "postedDate": "2026-11-09",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
-      "summary": "Humanitarian, migration, protection, health, nutrition, education, or social-policy role supporting vulnerable populations. Source: WFP. Location: Freetown, Sierra Leone, The Rep. Of. Title signal: Nutrition Intern.",
-      "responsibilities": [
-        "Support programme implementation, research, monitoring, or field coordination.",
-        "Contribute to documentation, needs analysis, protection or service-delivery follow-up.",
-        "Prepare notes, data summaries, and programme materials for humanitarian or social-policy teams."
-      ],
-      "requirements": [
-        "Interest or background in humanitarian affairs, migration, protection, public health, education, or social policy.",
-        "Research, documentation, and coordination skills.",
-        "Sensitivity to working with vulnerable populations and rights-based approaches."
-      ]
-    },
-    {
       "id": "286639",
       "title": "Pasantía ONU Derechos Humanos",
       "organization": "UN Careers",
@@ -795,35 +713,6 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "UNIDO-1375731455",
-      "title": "Project Administrator",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Admin, Finance & HR",
-      "tags": [
-        "finance"
-      ],
-      "deadline": "2026-11-25",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Project-Administrator/1375731455/",
-      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UNIDO. Location: Vienna, Austria. Title signal: Project Administrator.",
-      "responsibilities": [
-        "Support documentation, tracking, and daily operational workflows.",
-        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
-        "Prepare records, tables, notes, and process follow-up material.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Organization, attention to detail, Excel, and documentation skills.",
-        "Interest in operations, finance, HR, compliance, administration, or procurement.",
-        "Ability to work carefully with procedures and records."
-      ]
-    },
-    {
       "id": "288214",
       "title": "Communications Intern",
       "organization": "UN Careers",
@@ -1050,35 +939,6 @@ window.UN_MONITOR_LIVE_JOBS = {
         "Organization, attention to detail, Excel, and documentation skills.",
         "Interest in operations, finance, HR, compliance, administration, or procurement.",
         "Ability to work carefully with procedures and records."
-      ]
-    },
-    {
-      "id": "UNIDO-1367237355",
-      "title": "Team Leader (Electro-Mechanic & Equipment)",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-11-26",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Team-Leader-%28Electro-Mechanic-&-Equipment%29/1367237355/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Team Leader (Electro-Mechanic & Equipment).",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
       ]
     },
     {
@@ -1364,32 +1224,31 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "288273",
-      "title": "Communications intern",
+      "id": "287756",
+      "title": "Counter Terrorism Intern",
       "organization": "UN Careers",
-      "location": "NEW DELHI",
-      "continent": "Asia",
+      "location": "VIENNA",
+      "continent": "Europe",
       "source": "UN Careers",
-      "category": "Communications & Advocacy",
+      "category": "Programme & Project",
       "tags": [
-        "communications",
-        "advocacy"
+        "programme"
       ],
       "deadline": "2026-11-29",
-      "postedDate": "2026-11-16",
+      "postedDate": "2026-11-20",
       "status": "found",
       "appliedAt": null,
-      "url": "https://careers.un.org/jobSearchDescription/288273?language=en",
-      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: NEW DELHI. Title signal: Communications intern.",
+      "url": "https://careers.un.org/jobSearchDescription/287756?language=en",
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: VIENNA. Title signal: Counter Terrorism Intern.",
       "responsibilities": [
-        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
-        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
-        "Help translate programme evidence into accessible public-facing content."
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
       ],
       "requirements": [
-        "Strong writing, editing, storytelling, and communication skills.",
-        "Experience or interest in social media, campaigns, multimedia, or public information.",
-        "Ability to adapt messages for different audiences."
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
       ]
     },
     {
@@ -1444,6 +1303,34 @@ window.UN_MONITOR_LIVE_JOBS = {
         "Background in law, international relations, human rights, governance, or related field.",
         "Strong legal/policy research and concise writing skills.",
         "Attention to detail and ability to handle sensitive material."
+      ]
+    },
+    {
+      "id": "288498",
+      "title": "Intern - Digital and Technology Support Section",
+      "organization": "UN Careers",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "source": "UN Careers",
+      "category": "Tech & Digital",
+      "tags": [
+        "digital"
+      ],
+      "deadline": "2026-11-29",
+      "postedDate": "2026-11-16",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288498?language=en",
+      "summary": "Technical or digital role supporting software, ICT, digital transformation, AI, GIS, or technology-enabled workflows. Source: UN Careers. Location: GENEVA. Title signal: Intern - Digital and Technology Support Section.",
+      "responsibilities": [
+        "Support digital tools, systems, prototypes, or technical documentation.",
+        "Assist with requirements gathering, testing, implementation support, or workflow mapping.",
+        "Contribute to technology-enabled analysis, automation, or knowledge products."
+      ],
+      "requirements": [
+        "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
+        "Relevant software, web, database, GIS, or ICT skills.",
+        "Ability to explain technical work clearly to non-technical stakeholders."
       ]
     },
     {
@@ -1584,6 +1471,90 @@ window.UN_MONITOR_LIVE_JOBS = {
         "Background in economics, public policy, development, social sciences, or a related field.",
         "Strong research, writing, Excel, and analytical skills.",
         "Interest in UN development priorities and sustainable development issues."
+      ]
+    },
+    {
+      "id": "288522",
+      "title": "Intern - Data Science, Information Integrity Unit",
+      "organization": "UN Careers",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "source": "UN Careers",
+      "category": "Data & Analytics",
+      "tags": [
+        "data"
+      ],
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-23",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288522?language=en",
+      "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: NEW YORK. Title signal: Intern - Data Science, Information Integrity Unit.",
+      "responsibilities": [
+        "Clean, organize, and analyze datasets or monitoring information.",
+        "Support dashboards, indicators, visualizations, reports, or information-management products.",
+        "Document data workflows and help teams use evidence for decision-making."
+      ],
+      "requirements": [
+        "Experience with Excel and ideally Python, SQL, R, Power BI, Tableau, GIS, or similar tools.",
+        "Comfort with data cleaning, structured analysis, and documentation.",
+        "Ability to translate data into clear written or visual outputs."
+      ]
+    },
+    {
+      "id": "288198",
+      "title": "Intern - Drug Control & Crime Prevention",
+      "organization": "UN Careers",
+      "location": "VIENNA",
+      "continent": "Europe",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "tags": [
+        "programme"
+      ],
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-17",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288198?language=en",
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: VIENNA. Title signal: Intern - Drug Control & Crime Prevention.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "288591",
+      "title": "Intern - Political Affairs, Information Integrity Unit",
+      "organization": "UN Careers",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "tags": [
+        "programme"
+      ],
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-23",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288591?language=en",
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: NEW YORK. Title signal: Intern - Political Affairs, Information Integrity Unit.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
       ]
     },
     {
@@ -1899,93 +1870,6 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "UNIDO-1376269755",
-      "title": "Administrative Innovation Assistant",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Admin, Finance & HR",
-      "tags": [
-        "finance"
-      ],
-      "deadline": "2026-11-30",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Administrative-Innovation-Assistant/1376269755/",
-      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UNIDO. Location: Vienna, Austria. Title signal: Administrative Innovation Assistant.",
-      "responsibilities": [
-        "Support documentation, tracking, and daily operational workflows.",
-        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
-        "Prepare records, tables, notes, and process follow-up material.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Organization, attention to detail, Excel, and documentation skills.",
-        "Interest in operations, finance, HR, compliance, administration, or procurement.",
-        "Ability to work carefully with procedures and records."
-      ]
-    },
-    {
-      "id": "UNIDO-1376079255",
-      "title": "Coordonnateur/Coordinatrice National/e du Projet",
-      "organization": "UNIDO",
-      "location": "Moroni, Comoros",
-      "continent": "Remote / Global",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-11-30",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Moroni-CoordonnateurCoordinatrice-Nationale-du-Projet/1376079255/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Moroni, Comoros. Title signal: Coordonnateur/Coordinatrice National/e du Projet.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
-      "id": "UNIDO-1376285055",
-      "title": "National Ecosystem Coordination Expert",
-      "organization": "UNIDO",
-      "location": "Abuja, Nigeria",
-      "continent": "Africa",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-11-30",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Abuja-National-Ecosystem-Coordination-Expert/1376285055/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Abuja, Nigeria. Title signal: National Ecosystem Coordination Expert.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
       "id": "UNU-2815908",
       "title": "Consultant: Office and Events Manager",
       "organization": "UNU",
@@ -2124,11 +2008,39 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "UNIDO-1376449155",
-      "title": "National Project Assistant",
+      "id": "UNDP-38238",
+      "title": "Governance Intern (Nationals only)",
+      "organization": "UNDP",
+      "location": "Ulan Bator, Mongolia",
+      "continent": "Remote / Global",
+      "source": "UNDP",
+      "category": "Legal & Human Rights",
+      "tags": [
+        "legal"
+      ],
+      "deadline": "2026-12-01",
+      "postedDate": "2026-06-29",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38238",
+      "summary": "Legal, governance, or human-rights role focused on research, analysis, documentation, and support to legal/policy teams. Source: UNDP. Location: Ulan Bator, Mongolia. Title signal: Governance Intern (Nationals only).",
+      "responsibilities": [
+        "Conduct legal, governance, or human-rights desk research.",
+        "Summarize documents, cases, policies, or country developments.",
+        "Support reports, briefings, meeting preparation, or documentation workflows."
+      ],
+      "requirements": [
+        "Background in law, international relations, human rights, governance, or related field.",
+        "Strong legal/policy research and concise writing skills.",
+        "Attention to detail and ability to handle sensitive material."
+      ]
+    },
+    {
+      "id": "UNIDO-1378264155",
+      "title": "Intern - COR/OMD",
       "organization": "UNIDO",
-      "location": "THA - Other cities, Thailand",
-      "continent": "Asia",
+      "location": "Vienna, Austria",
+      "continent": "Europe",
       "source": "UNIDO",
       "category": "Programme & Project",
       "tags": [
@@ -2138,13 +2050,12 @@ window.UN_MONITOR_LIVE_JOBS = {
       "postedDate": "2026-06-29",
       "status": "found",
       "appliedAt": null,
-      "url": "https://careers.unido.org/job/THA-Other-cities-National-Project-Assistant/1376449155/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: THA - Other cities, Thailand. Title signal: National Project Assistant.",
+      "url": "https://careers.unido.org/job/Vienna-Intern-COROMD/1378264155/",
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Intern - COR/OMD.",
       "responsibilities": [
         "Track activities, deliverables, meetings, and programme documentation.",
         "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
       ],
       "requirements": [
         "Strong organization, writing, coordination, and research skills.",
@@ -2267,64 +2178,6 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "UNIDO-1377319355",
-      "title": "Senior Project Assistant",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-12-02",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Senior-Project-Assistant/1377319355/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Senior Project Assistant.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
-      "id": "UNIDO-1376772355",
-      "title": "Gender and Social Inclusion Expert",
-      "organization": "UNIDO",
-      "location": "Manila, Philippines",
-      "continent": "Remote / Global",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-12-03",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Manila-Gender-and-Social-Inclusion-Expert/1376772355/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Manila, Philippines. Title signal: Gender and Social Inclusion Expert.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
       "id": "287734",
       "title": "INTERN - PROGRAMME MANAGEMENT (GETI)",
       "organization": "UN Careers",
@@ -2345,35 +2198,6 @@ window.UN_MONITOR_LIVE_JOBS = {
         "Track activities, deliverables, meetings, and programme documentation.",
         "Support reporting, coordination, note-taking, research, and knowledge management.",
         "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
-      "id": "UNIDO-1376934255",
-      "title": "National Project Coordinator",
-      "organization": "UNIDO",
-      "location": "Pretoria, South Africa",
-      "continent": "Remote / Global",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-12-04",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Pretoria-National-Project-Coordinator/1376934255/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Pretoria, South Africa. Title signal: National Project Coordinator.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
       ],
       "requirements": [
         "Strong organization, writing, coordination, and research skills.",
@@ -2466,34 +2290,6 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "288808",
-      "title": "Drug Control (Drug Policy Studies) Intern",
-      "organization": "UN Careers",
-      "location": "BANGKOK",
-      "continent": "Asia",
-      "source": "UN Careers",
-      "category": "Economics & Development",
-      "tags": [
-        "policy"
-      ],
-      "deadline": "2026-12-06",
-      "postedDate": "2026-11-23",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.un.org/jobSearchDescription/288808?language=en",
-      "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: BANGKOK. Title signal: Drug Control (Drug Policy Studies) Intern.",
-      "responsibilities": [
-        "Support policy research, background notes, and evidence synthesis.",
-        "Analyze programme, economic, budget, or development information for team outputs.",
-        "Prepare short written products such as briefs, talking points, tables, and presentations."
-      ],
-      "requirements": [
-        "Background in economics, public policy, development, social sciences, or a related field.",
-        "Strong research, writing, Excel, and analytical skills.",
-        "Interest in UN development priorities and sustainable development issues."
-      ]
-    },
-    {
       "id": "288803",
       "title": "Drug Control Specialist Intern",
       "organization": "UN Careers",
@@ -2522,6 +2318,35 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
+      "id": "288670",
+      "title": "Intern - Programme Support - Environmental Governance and Peacebuilding in Somalia",
+      "organization": "UN Careers",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "source": "UN Careers",
+      "category": "Legal & Human Rights",
+      "tags": [
+        "legal",
+        "programme"
+      ],
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288670?language=en",
+      "summary": "Legal, governance, or human-rights role focused on research, analysis, documentation, and support to legal/policy teams. Source: UN Careers. Location: NAIROBI. Title signal: Intern - Programme Support - Environmental Governance and Peacebuilding in Somalia.",
+      "responsibilities": [
+        "Conduct legal, governance, or human-rights desk research.",
+        "Summarize documents, cases, policies, or country developments.",
+        "Support reports, briefings, meeting preparation, or documentation workflows."
+      ],
+      "requirements": [
+        "Background in law, international relations, human rights, governance, or related field.",
+        "Strong legal/policy research and concise writing skills.",
+        "Attention to detail and ability to handle sensitive material."
+      ]
+    },
+    {
       "id": "288580",
       "title": "Public Information Intern (Outreach)",
       "organization": "UN Careers",
@@ -2539,6 +2364,35 @@ window.UN_MONITOR_LIVE_JOBS = {
       "appliedAt": null,
       "url": "https://careers.un.org/jobSearchDescription/288580?language=en",
       "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: VIENNA. Title signal: Public Information Intern (Outreach).",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "288203",
+      "title": "Public Information Intern: International Development Cooperation",
+      "organization": "UN Careers",
+      "location": "NEW YORK",
+      "continent": "North America",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "deadline": "2026-12-06",
+      "postedDate": "2026-11-23",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288203?language=en",
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: NEW YORK. Title signal: Public Information Intern: International Development Cooperation.",
       "responsibilities": [
         "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
         "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
@@ -2579,32 +2433,88 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "UNIDO-1377816655",
-      "title": "Project Administrator (Roster)",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Admin, Finance & HR",
+      "id": "UNDP-37493",
+      "title": "Communications Intern (Roster, Nationals Only)",
+      "organization": "UNDP",
+      "location": "Bishkek, Kyrgyzstan",
+      "continent": "Asia",
+      "source": "UNDP",
+      "category": "Communications & Advocacy",
       "tags": [
-        "finance"
+        "communications",
+        "advocacy"
       ],
       "deadline": "2026-12-06",
       "postedDate": "2026-06-29",
       "status": "found",
       "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Project-Administrator-%28Roster%29/1377816655/",
-      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UNIDO. Location: Vienna, Austria. Title signal: Project Administrator (Roster).",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37493",
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UNDP. Location: Bishkek, Kyrgyzstan. Title signal: Communications Intern (Roster, Nationals Only).",
       "responsibilities": [
-        "Support documentation, tracking, and daily operational workflows.",
-        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
-        "Prepare records, tables, notes, and process follow-up material.",
-        "Confirm internship eligibility on the official vacancy page."
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
       ],
       "requirements": [
-        "Organization, attention to detail, Excel, and documentation skills.",
-        "Interest in operations, finance, HR, compliance, administration, or procurement.",
-        "Ability to work carefully with procedures and records."
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "288282",
+      "title": "Intern - Data Engineering",
+      "organization": "UN Careers",
+      "location": "GENEVA",
+      "continent": "Europe",
+      "source": "UN Careers",
+      "category": "Data & Analytics",
+      "tags": [
+        "data"
+      ],
+      "deadline": "2026-12-07",
+      "postedDate": "2026-11-16",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288282?language=en",
+      "summary": "Data-oriented internship involving information management, monitoring, dashboards, statistics, or analytical support. Source: UN Careers. Location: GENEVA. Title signal: Intern - Data Engineering.",
+      "responsibilities": [
+        "Clean, organize, and analyze datasets or monitoring information.",
+        "Support dashboards, indicators, visualizations, reports, or information-management products.",
+        "Document data workflows and help teams use evidence for decision-making."
+      ],
+      "requirements": [
+        "Experience with Excel and ideally Python, SQL, R, Power BI, Tableau, GIS, or similar tools.",
+        "Comfort with data cleaning, structured analysis, and documentation.",
+        "Ability to translate data into clear written or visual outputs."
+      ]
+    },
+    {
+      "id": "288488",
+      "title": "Intern - Programme support",
+      "organization": "UN Careers",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "tags": [
+        "programme"
+      ],
+      "deadline": "2026-12-07",
+      "postedDate": "2026-11-23",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288488?language=en",
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: NAIROBI. Title signal: Intern - Programme support.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
       ]
     },
     {
@@ -2622,6 +2532,87 @@ window.UN_MONITOR_LIVE_JOBS = {
       "appliedAt": null,
       "url": "https://careers.un.org/jobSearchDescription/288542?language=en",
       "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: UN Careers. Location: BANGKOK. Title signal: Intern-Partnerships.",
+      "responsibilities": [
+        "Support donor/stakeholder mapping and external-relations tracking.",
+        "Prepare briefing notes, partner profiles, presentations, or visibility material.",
+        "Assist with resource-mobilization and partnership documentation."
+      ],
+      "requirements": [
+        "Strong research, writing, and stakeholder-analysis skills.",
+        "Interest in partnerships, fundraising, external relations, or private-sector engagement.",
+        "Ability to synthesize information for senior audiences."
+      ]
+    },
+    {
+      "id": "288653",
+      "title": "Public Information Intern",
+      "organization": "UN Careers",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "deadline": "2026-12-07",
+      "postedDate": "2026-11-23",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://careers.un.org/jobSearchDescription/288653?language=en",
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: NAIROBI. Title signal: Public Information Intern.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "WFP-JR128640",
+      "title": "Internship - Partnerships Team, WFP London Global Office, UK",
+      "organization": "WFP",
+      "location": "Rome, Italy",
+      "continent": "Europe",
+      "source": "WFP",
+      "category": "Partnerships",
+      "tags": [],
+      "deadline": "2026-12-07",
+      "postedDate": "2026-11-23",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/jobs?workerSubType=59387fe40123101e856f1834e09b0002",
+      "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: WFP. Location: Rome, Italy. Title signal: Internship - Partnerships Team, WFP London Global Office, UK.",
+      "responsibilities": [
+        "Support donor/stakeholder mapping and external-relations tracking.",
+        "Prepare briefing notes, partner profiles, presentations, or visibility material.",
+        "Assist with resource-mobilization and partnership documentation."
+      ],
+      "requirements": [
+        "Strong research, writing, and stakeholder-analysis skills.",
+        "Interest in partnerships, fundraising, external relations, or private-sector engagement.",
+        "Ability to synthesize information for senior audiences."
+      ]
+    },
+    {
+      "id": "ITU-1378257955",
+      "title": "Unpaid Internship - Internships & Partnerships Process Innovation and AI Intern",
+      "organization": "ITU",
+      "location": "Geneva, Switzerland",
+      "continent": "Europe",
+      "source": "ITU",
+      "category": "Partnerships",
+      "tags": [],
+      "deadline": "2026-12-08",
+      "postedDate": "2026-11-24",
+      "status": "found",
+      "appliedAt": null,
+      "url": "https://jobs.itu.int/job/Geneva-Unpaid-Internship-Internships-&-Partnerships-Process-Innovation-and-AI-Intern/1378257955/",
+      "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: ITU. Location: Geneva, Switzerland. Title signal: Unpaid Internship - Internships & Partnerships Process Innovation and AI Intern.",
       "responsibilities": [
         "Support donor/stakeholder mapping and external-relations tracking.",
         "Prepare briefing notes, partner profiles, presentations, or visibility material.",
@@ -2691,65 +2682,6 @@ window.UN_MONITOR_LIVE_JOBS = {
       ]
     },
     {
-      "id": "UNIDO-1377530255",
-      "title": "Agribusiness Support Assistant",
-      "organization": "UNIDO",
-      "location": "Cotabato City, Philippines",
-      "continent": "Remote / Global",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-12-09",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Cotabato-City-Agribusiness-Support-Assistant/1377530255/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Cotabato City, Philippines. Title signal: Agribusiness Support Assistant.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
-      "id": "UNIDO-1377529955",
-      "title": "Research Economist",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "research",
-        "programme"
-      ],
-      "deadline": "2026-12-09",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Research-Economist/1377529955/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Research Economist.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
       "id": "ITU-1367950855",
       "title": "Unpaid internship - Emergency Telecommunications Intern",
       "organization": "ITU",
@@ -2804,35 +2736,6 @@ window.UN_MONITOR_LIVE_JOBS = {
         "Background in law, international relations, human rights, governance, or related field.",
         "Strong legal/policy research and concise writing skills.",
         "Attention to detail and ability to handle sensitive material."
-      ]
-    },
-    {
-      "id": "UNIDO-1377671155",
-      "title": "Project Associate",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-12-10",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Project-Associate/1377671155/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Project Associate.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
       ]
     },
     {
@@ -2914,93 +2817,6 @@ window.UN_MONITOR_LIVE_JOBS = {
         "Track activities, deliverables, meetings, and programme documentation.",
         "Support reporting, coordination, note-taking, research, and knowledge management.",
         "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
-      "id": "UNIDO-1377217655",
-      "title": "Investigator",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-12-14",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Investigator/1377217655/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Investigator.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
-      "id": "UNIDO-1377293755",
-      "title": "Oversight Coordination Officer",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-12-15",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Oversight-Coordination-Officer/1377293755/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Oversight Coordination Officer.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
-      ],
-      "requirements": [
-        "Strong organization, writing, coordination, and research skills.",
-        "Interest in project/programme management and UN operational workflows.",
-        "Ability to work across teams and keep clear records."
-      ]
-    },
-    {
-      "id": "UNIDO-1377521655",
-      "title": "Travel Assistant",
-      "organization": "UNIDO",
-      "location": "Vienna, Austria",
-      "continent": "Europe",
-      "source": "UNIDO",
-      "category": "Programme & Project",
-      "tags": [
-        "programme"
-      ],
-      "deadline": "2026-12-16",
-      "postedDate": "2026-06-29",
-      "status": "found",
-      "appliedAt": null,
-      "url": "https://careers.unido.org/job/Vienna-Travel-Assistant/1377521655/",
-      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UNIDO. Location: Vienna, Austria. Title signal: Travel Assistant.",
-      "responsibilities": [
-        "Track activities, deliverables, meetings, and programme documentation.",
-        "Support reporting, coordination, note-taking, research, and knowledge management.",
-        "Assist teams with day-to-day implementation and follow-up with partners or colleagues.",
-        "Confirm internship eligibility on the official vacancy page."
       ],
       "requirements": [
         "Strong organization, writing, coordination, and research skills.",
