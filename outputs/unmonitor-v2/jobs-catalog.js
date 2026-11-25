@@ -14236,6 +14236,29 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "286815",
+      "title": "INTERN - ECONOMIC AFFAIRS",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Economics & Development",
+      "location": "SANTIAGO",
+      "continent": "South America",
+      "deadline": "2026-12-14",
+      "postedDate": "2026-11-24",
+      "url": "https://careers.un.org/jobSearchDescription/286815?language=en",
+      "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: SANTIAGO. Title signal: INTERN - ECONOMIC AFFAIRS.",
+      "responsibilities": [
+        "Support policy research, background notes, and evidence synthesis.",
+        "Analyze programme, economic, budget, or development information for team outputs.",
+        "Prepare short written products such as briefs, talking points, tables, and presentations."
+      ],
+      "requirements": [
+        "Background in economics, public policy, development, social sciences, or a related field.",
+        "Strong research, writing, Excel, and analytical skills.",
+        "Interest in UN development priorities and sustainable development issues."
+      ]
+    },
+    {
       "id": "286816",
       "title": "Intern - Programme Management (Digital Cooperation and Emerging Technologies)",
       "organization": "UN Careers",
@@ -15899,6 +15922,32 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "287938",
+      "title": "Biodiversity Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "NAIROBI",
+      "continent": "Africa",
+      "deadline": "2026-11-30",
+      "postedDate": "2026-11-24",
+      "url": "https://careers.un.org/jobSearchDescription/287938?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: NAIROBI. Title signal: Biodiversity Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
       "id": "287969",
       "title": "INTERN - HUMAN RIGHTS",
       "organization": "UN Careers",
@@ -17191,6 +17240,140 @@ window.UN_MONITOR_JOB_CATALOG = {
         "programme"
       ],
       "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: BANGKOK. Title signal: Transnational Organized Crime Specialist Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "288838",
+      "title": "Communications & Multimedia Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "SANTIAGO",
+      "continent": "South America",
+      "deadline": "2026-12-08",
+      "postedDate": "2026-11-25",
+      "url": "https://careers.un.org/jobSearchDescription/288838?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: SANTIAGO. Title signal: Communications & Multimedia Intern.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "288915",
+      "title": "Public Information",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "VIENNA",
+      "continent": "Europe",
+      "deadline": "2026-12-03",
+      "postedDate": "2026-11-24",
+      "url": "https://careers.un.org/jobSearchDescription/288915?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: VIENNA. Title signal: Public Information.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content.",
+        "Confirm internship eligibility on the official vacancy page."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "288919",
+      "title": "Public Information Intern (Website and Digital Communications)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Tech & Digital",
+      "location": "VIENNA",
+      "continent": "Europe",
+      "deadline": "2026-12-03",
+      "postedDate": "2026-11-24",
+      "url": "https://careers.un.org/jobSearchDescription/288919?language=en",
+      "tags": [
+        "communications",
+        "digital"
+      ],
+      "summary": "Technical or digital role supporting software, ICT, digital transformation, AI, GIS, or technology-enabled workflows. Source: UN Careers. Location: VIENNA. Title signal: Public Information Intern (Website and Digital Communications).",
+      "responsibilities": [
+        "Support digital tools, systems, prototypes, or technical documentation.",
+        "Assist with requirements gathering, testing, implementation support, or workflow mapping.",
+        "Contribute to technology-enabled analysis, automation, or knowledge products."
+      ],
+      "requirements": [
+        "Technical background in computer science, information systems, GIS, digital innovation, or related field.",
+        "Relevant software, web, database, GIS, or ICT skills.",
+        "Ability to explain technical work clearly to non-technical stakeholders."
+      ]
+    },
+    {
+      "id": "288943",
+      "title": "Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "VIENNA",
+      "continent": "Europe",
+      "deadline": "2026-12-03",
+      "postedDate": "2026-11-24",
+      "url": "https://careers.un.org/jobSearchDescription/288943?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: VIENNA. Title signal: Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "289023",
+      "title": "Space4Youth Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "VIENNA",
+      "continent": "Europe",
+      "deadline": "2026-12-10",
+      "postedDate": "2026-11-24",
+      "url": "https://careers.un.org/jobSearchDescription/289023?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: VIENNA. Title signal: Space4Youth Intern.",
       "responsibilities": [
         "Track activities, deliverables, meetings, and programme documentation.",
         "Support reporting, coordination, note-taking, research, and knowledge management.",
