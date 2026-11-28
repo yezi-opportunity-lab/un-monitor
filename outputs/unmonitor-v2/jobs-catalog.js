@@ -112,7 +112,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Tech & Digital",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2027-01-07",
+      "deadline": "2027-01-08",
       "postedDate": "2026-01-08",
       "url": "https://careers.un.org/jobSearchDescription/270034?language=en",
       "tags": [
@@ -138,7 +138,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-12-30",
+      "deadline": "2026-12-31",
       "postedDate": "2026-02-01",
       "url": "https://careers.un.org/jobSearchDescription/271235?language=en",
       "tags": [
@@ -164,7 +164,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2027-03-23",
+      "deadline": "2027-03-24",
       "postedDate": "2026-03-24",
       "url": "https://careers.un.org/jobSearchDescription/272640?language=en",
       "tags": [
@@ -190,7 +190,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2027-03-04",
+      "deadline": "2027-03-05",
       "postedDate": "2026-03-05",
       "url": "https://careers.un.org/jobSearchDescription/273246?language=en",
       "tags": [
@@ -216,7 +216,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2027-05-06",
+      "deadline": "2027-05-07",
       "postedDate": "2026-05-08",
       "url": "https://careers.un.org/jobSearchDescription/276487?language=en",
       "tags": [
@@ -1226,7 +1226,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-12-30",
+      "deadline": "2026-12-31",
       "postedDate": "2026-07-01",
       "url": "https://careers.un.org/jobSearchDescription/279794?language=en",
       "tags": [
@@ -2566,7 +2566,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Legal & Human Rights",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2027-01-01",
+      "deadline": "2027-01-02",
       "postedDate": "2026-07-03",
       "url": "https://careers.un.org/jobSearchDescription/280477?language=en",
       "tags": [
@@ -4666,7 +4666,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2027-01-20",
+      "deadline": "2027-01-21",
       "postedDate": "2026-07-22",
       "url": "https://careers.un.org/jobSearchDescription/281381?language=en",
       "tags": [
@@ -4954,7 +4954,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2027-01-22",
+      "deadline": "2027-01-23",
       "postedDate": "2026-07-24",
       "url": "https://careers.un.org/jobSearchDescription/281536?language=en",
       "tags": [
@@ -8206,7 +8206,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Legal & Human Rights",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2027-08-23",
+      "deadline": "2027-08-24",
       "postedDate": "2026-08-24",
       "url": "https://careers.un.org/jobSearchDescription/283456?language=en",
       "tags": [
@@ -9084,7 +9084,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-12-05",
+      "deadline": "2026-12-06",
       "postedDate": "2026-11-06",
       "url": "https://careers.un.org/jobSearchDescription/283986?language=en",
       "tags": [
@@ -12098,7 +12098,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-01",
       "url": "https://careers.un.org/jobSearchDescription/285818?language=en",
       "tags": [
@@ -12125,7 +12125,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-01",
       "url": "https://careers.un.org/jobSearchDescription/285819?language=en",
       "tags": [
@@ -12231,7 +12231,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-09",
       "url": "https://careers.un.org/jobSearchDescription/285875?language=en",
       "tags": [
@@ -13071,7 +13071,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Tech & Digital",
       "location": "THE HAGUE",
       "continent": "Europe",
-      "deadline": "2026-12-19",
+      "deadline": "2026-12-20",
       "postedDate": "2026-11-14",
       "url": "https://careers.un.org/jobSearchDescription/286292?language=en",
       "tags": [
@@ -13619,7 +13619,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Legal & Human Rights",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-12-10",
+      "deadline": "2026-12-11",
       "postedDate": "2026-11-20",
       "url": "https://careers.un.org/jobSearchDescription/286490?language=en",
       "tags": [
@@ -14243,7 +14243,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Economics & Development",
       "location": "SANTIAGO",
       "continent": "South America",
-      "deadline": "2026-12-14",
+      "deadline": "2026-12-15",
       "postedDate": "2026-11-24",
       "url": "https://careers.un.org/jobSearchDescription/286815?language=en",
       "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: SANTIAGO. Title signal: INTERN - ECONOMIC AFFAIRS.",
@@ -14471,7 +14471,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "NAHARIYA",
       "continent": "Remote / Global",
-      "deadline": "2026-11-29",
+      "deadline": "2026-11-30",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/286995?language=en",
       "tags": [
@@ -14497,7 +14497,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-12-01",
+      "deadline": "2026-12-02",
       "postedDate": "2026-11-18",
       "url": "https://careers.un.org/jobSearchDescription/287007?language=en",
       "tags": [
@@ -14552,7 +14552,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Economics & Development",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2026-12-05",
+      "deadline": "2026-12-06",
       "postedDate": "2026-10-22",
       "url": "https://careers.un.org/jobSearchDescription/287027?language=en",
       "tags": [
@@ -14605,7 +14605,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-12-21",
+      "deadline": "2026-12-22",
       "postedDate": "2026-11-22",
       "url": "https://careers.un.org/jobSearchDescription/287059?language=en",
       "tags": [
@@ -14808,7 +14808,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-12-08",
+      "deadline": "2026-12-09",
       "postedDate": "2026-10-26",
       "url": "https://careers.un.org/jobSearchDescription/287173?language=en",
       "tags": [
@@ -14940,7 +14940,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Legal & Human Rights",
       "location": "PHNOM-PENH",
       "continent": "Remote / Global",
-      "deadline": "2026-11-29",
+      "deadline": "2026-11-30",
       "postedDate": "2026-11-02",
       "url": "https://careers.un.org/jobSearchDescription/287300?language=en",
       "tags": [
@@ -15170,7 +15170,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Admin, Finance & HR",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2026-12-17",
+      "deadline": "2026-12-18",
       "postedDate": "2026-11-03",
       "url": "https://careers.un.org/jobSearchDescription/287486?language=en",
       "tags": [
@@ -15272,7 +15272,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-12-26",
+      "deadline": "2026-12-27",
       "postedDate": "2026-11-12",
       "url": "https://careers.un.org/jobSearchDescription/287574?language=en",
       "tags": [
@@ -15532,7 +15532,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "INCHEON CITY",
       "continent": "Asia",
-      "deadline": "2026-12-04",
+      "deadline": "2026-12-05",
       "postedDate": "2026-11-06",
       "url": "https://careers.un.org/jobSearchDescription/287734?language=en",
       "tags": [
@@ -15558,7 +15558,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "VIENNA",
       "continent": "Europe",
-      "deadline": "2026-11-29",
+      "deadline": "2026-11-30",
       "postedDate": "2026-11-20",
       "url": "https://careers.un.org/jobSearchDescription/287756?language=en",
       "tags": [
@@ -15929,7 +15929,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "NAIROBI",
       "continent": "Africa",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-24",
       "url": "https://careers.un.org/jobSearchDescription/287938?language=en",
       "tags": [
@@ -16007,7 +16007,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288035?language=en",
       "tags": [
@@ -16116,7 +16116,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Legal & Human Rights",
       "location": "BEIRUT",
       "continent": "Remote / Global",
-      "deadline": "2026-12-02",
+      "deadline": "2026-12-03",
       "postedDate": "2026-11-19",
       "url": "https://careers.un.org/jobSearchDescription/288144?language=en",
       "tags": [
@@ -16142,7 +16142,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "SKOPJE",
       "continent": "Remote / Global",
-      "deadline": "2026-12-01",
+      "deadline": "2026-12-02",
       "postedDate": "2026-11-11",
       "url": "https://careers.un.org/jobSearchDescription/288156?language=en",
       "tags": [
@@ -16168,7 +16168,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288158?language=en",
       "tags": [
@@ -16275,7 +16275,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Economics & Development",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288187?language=en",
       "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: GENEVA. Title signal: Intern-Economic Affairs.",
@@ -16298,7 +16298,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "VIENNA",
       "continent": "Europe",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-17",
       "url": "https://careers.un.org/jobSearchDescription/288198?language=en",
       "tags": [
@@ -16378,7 +16378,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "SKOPJE",
       "continent": "Remote / Global",
-      "deadline": "2026-12-02",
+      "deadline": "2026-12-03",
       "postedDate": "2026-11-12",
       "url": "https://careers.un.org/jobSearchDescription/288254?language=en",
       "tags": [
@@ -16432,7 +16432,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "NEW DELHI",
       "continent": "Asia",
-      "deadline": "2026-11-29",
+      "deadline": "2026-11-30",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288273?language=en",
       "tags": [
@@ -16459,7 +16459,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "BRUSSELS",
       "continent": "Europe",
-      "deadline": "2026-12-10",
+      "deadline": "2026-12-11",
       "postedDate": "2026-11-26",
       "url": "https://careers.un.org/jobSearchDescription/288277?language=en",
       "tags": [
@@ -16485,7 +16485,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Legal & Human Rights",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2026-11-28",
+      "deadline": "2026-11-29",
       "postedDate": "2026-11-15",
       "url": "https://careers.un.org/jobSearchDescription/288279?language=en",
       "tags": [
@@ -16511,7 +16511,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-12-07",
+      "deadline": "2026-12-08",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288282?language=en",
       "tags": [
@@ -16564,7 +16564,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "VIENNA",
       "continent": "Europe",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288295?language=en",
       "tags": [
@@ -16591,7 +16591,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "PRAGUE",
       "continent": "Remote / Global",
-      "deadline": "2026-12-14",
+      "deadline": "2026-12-15",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288296?language=en",
       "tags": [
@@ -16618,7 +16618,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "SANTIAGO",
       "continent": "South America",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-17",
       "url": "https://careers.un.org/jobSearchDescription/288306?language=en",
       "tags": [
@@ -16645,7 +16645,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "BEIJING",
       "continent": "Asia",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-12",
       "url": "https://careers.un.org/jobSearchDescription/288319?language=en",
       "tags": [
@@ -16776,7 +16776,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "NAIROBI",
       "continent": "Africa",
-      "deadline": "2026-12-07",
+      "deadline": "2026-12-08",
       "postedDate": "2026-11-23",
       "url": "https://careers.un.org/jobSearchDescription/288488?language=en",
       "tags": [
@@ -16802,7 +16802,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Climate & Environment",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-11-29",
+      "deadline": "2026-11-30",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288489?language=en",
       "summary": "Environment or climate role supporting research, data, reporting, and policy work on sustainability topics. Source: UN Careers. Location: GENEVA. Title signal: Environmental Affairs Intern.",
@@ -16825,7 +16825,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Tech & Digital",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-11-29",
+      "deadline": "2026-11-30",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288498?language=en",
       "tags": [
@@ -16851,7 +16851,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Economics & Development",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-16",
       "url": "https://careers.un.org/jobSearchDescription/288499?language=en",
       "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: GENEVA. Title signal: Economic Affairs Intern.",
@@ -16874,7 +16874,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Economics & Development",
       "location": "ADDIS ABABA",
       "continent": "Africa",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-17",
       "url": "https://careers.un.org/jobSearchDescription/288503?language=en",
       "summary": "Policy and development role focused on research, analysis, briefing material, and evidence for economic or sustainable-development work. Source: UN Careers. Location: ADDIS ABABA. Title signal: Economic Affairs Intern.",
@@ -16897,7 +16897,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-12-12",
+      "deadline": "2026-12-13",
       "postedDate": "2026-11-17",
       "url": "https://careers.un.org/jobSearchDescription/288510?language=en",
       "tags": [
@@ -16923,7 +16923,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-11-30",
+      "deadline": "2026-12-01",
       "postedDate": "2026-11-23",
       "url": "https://careers.un.org/jobSearchDescription/288522?language=en",
       "tags": [
@@ -16949,7 +16949,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Partnerships",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2026-12-07",
+      "deadline": "2026-12-08",
       "postedDate": "2026-11-20",
       "url": "https://careers.un.org/jobSearchDescription/288542?language=en",
       "summary": "Partnerships or external-relations role supporting donor engagement, stakeholder mapping, fundraising, or resource mobilization. Source: UN Careers. Location: BANGKOK. Title signal: Intern-Partnerships.",
@@ -17051,7 +17051,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Admin, Finance & HR",
       "location": "THE HAGUE",
       "continent": "Europe",
-      "deadline": "2026-12-30",
+      "deadline": "2026-12-31",
       "postedDate": "2026-11-17",
       "url": "https://careers.un.org/jobSearchDescription/288608?language=en",
       "tags": [
@@ -17077,7 +17077,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Admin, Finance & HR",
       "location": "NEW YORK",
       "continent": "North America",
-      "deadline": "2026-12-02",
+      "deadline": "2026-12-03",
       "postedDate": "2026-11-19",
       "url": "https://careers.un.org/jobSearchDescription/288614?language=en",
       "tags": [
@@ -17104,7 +17104,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "NAIROBI",
       "continent": "Africa",
-      "deadline": "2026-12-07",
+      "deadline": "2026-12-08",
       "postedDate": "2026-11-23",
       "url": "https://careers.un.org/jobSearchDescription/288653?language=en",
       "tags": [
@@ -17124,6 +17124,33 @@ window.UN_MONITOR_JOB_CATALOG = {
       ]
     },
     {
+      "id": "288661",
+      "title": "Outreach and Communications Intern",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Communications & Advocacy",
+      "location": "BRUSSELS",
+      "continent": "Europe",
+      "deadline": "2026-12-14",
+      "postedDate": "2026-11-27",
+      "url": "https://careers.un.org/jobSearchDescription/288661?language=en",
+      "tags": [
+        "communications",
+        "advocacy"
+      ],
+      "summary": "Communications role focused on public information, campaigns, advocacy, media, storytelling, or digital content. Source: UN Careers. Location: BRUSSELS. Title signal: Outreach and Communications Intern.",
+      "responsibilities": [
+        "Draft, edit, and package communication materials for web, social media, campaigns, or events.",
+        "Support advocacy research, media tracking, content planning, or stakeholder messaging.",
+        "Help translate programme evidence into accessible public-facing content."
+      ],
+      "requirements": [
+        "Strong writing, editing, storytelling, and communication skills.",
+        "Experience or interest in social media, campaigns, multimedia, or public information.",
+        "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
       "id": "288670",
       "title": "Intern - Programme Support - Environmental Governance and Peacebuilding in Somalia",
       "organization": "UN Careers",
@@ -17131,7 +17158,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Legal & Human Rights",
       "location": "NAIROBI",
       "continent": "Africa",
-      "deadline": "2026-12-06",
+      "deadline": "2026-12-07",
       "postedDate": "2026-11-23",
       "url": "https://careers.un.org/jobSearchDescription/288670?language=en",
       "tags": [
@@ -17158,7 +17185,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Climate & Environment",
       "location": "GENEVA",
       "continent": "Europe",
-      "deadline": "2026-12-01",
+      "deadline": "2026-12-02",
       "postedDate": "2026-11-18",
       "url": "https://careers.un.org/jobSearchDescription/288672?language=en",
       "summary": "Environment or climate role supporting research, data, reporting, and policy work on sustainability topics. Source: UN Careers. Location: GENEVA. Title signal: Intern in the Sustainable Environmental Management (SEM) Group.",
@@ -17181,7 +17208,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Humanitarian & Protection",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2026-12-08",
+      "deadline": "2026-12-09",
       "postedDate": "2026-11-25",
       "url": "https://careers.un.org/jobSearchDescription/288730?language=en",
       "summary": "Humanitarian, migration, protection, health, nutrition, education, or social-policy role supporting vulnerable populations. Source: UN Careers. Location: BANGKOK. Title signal: Humanitarian Affairs Intern.",
@@ -17204,7 +17231,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Tech & Digital",
       "location": "NAIROBI",
       "continent": "Africa",
-      "deadline": "2026-11-28",
+      "deadline": "2026-11-29",
       "postedDate": "2026-11-20",
       "url": "https://careers.un.org/jobSearchDescription/288738?language=en",
       "tags": [
@@ -17230,7 +17257,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2026-12-06",
+      "deadline": "2026-12-07",
       "postedDate": "2026-11-23",
       "url": "https://careers.un.org/jobSearchDescription/288803?language=en",
       "tags": [
@@ -17282,7 +17309,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2026-12-06",
+      "deadline": "2026-12-07",
       "postedDate": "2026-11-23",
       "url": "https://careers.un.org/jobSearchDescription/288811?language=en",
       "tags": [
@@ -17308,7 +17335,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "BANGKOK",
       "continent": "Asia",
-      "deadline": "2026-12-06",
+      "deadline": "2026-12-07",
       "postedDate": "2026-11-23",
       "url": "https://careers.un.org/jobSearchDescription/288812?language=en",
       "tags": [
@@ -17334,7 +17361,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "SANTIAGO",
       "continent": "South America",
-      "deadline": "2026-12-08",
+      "deadline": "2026-12-09",
       "postedDate": "2026-11-25",
       "url": "https://careers.un.org/jobSearchDescription/288838?language=en",
       "tags": [
@@ -17361,7 +17388,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "GUATEMALA CITY",
       "continent": "Remote / Global",
-      "deadline": "2026-12-10",
+      "deadline": "2026-12-11",
       "postedDate": "2026-11-27",
       "url": "https://careers.un.org/jobSearchDescription/288860?language=en",
       "tags": [
@@ -17387,7 +17414,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Data & Analytics",
       "location": "BEIJING",
       "continent": "Asia",
-      "deadline": "2026-12-10",
+      "deadline": "2026-12-11",
       "postedDate": "2026-11-26",
       "url": "https://careers.un.org/jobSearchDescription/288910?language=en",
       "tags": [
@@ -17414,7 +17441,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "VIENNA",
       "continent": "Europe",
-      "deadline": "2026-12-03",
+      "deadline": "2026-12-04",
       "postedDate": "2026-11-24",
       "url": "https://careers.un.org/jobSearchDescription/288915?language=en",
       "tags": [
@@ -17442,7 +17469,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Tech & Digital",
       "location": "VIENNA",
       "continent": "Europe",
-      "deadline": "2026-12-03",
+      "deadline": "2026-12-04",
       "postedDate": "2026-11-24",
       "url": "https://careers.un.org/jobSearchDescription/288919?language=en",
       "tags": [
@@ -17469,7 +17496,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "VIENNA",
       "continent": "Europe",
-      "deadline": "2026-12-03",
+      "deadline": "2026-12-04",
       "postedDate": "2026-11-24",
       "url": "https://careers.un.org/jobSearchDescription/288943?language=en",
       "tags": [
@@ -17495,7 +17522,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "VIENNA",
       "continent": "Europe",
-      "deadline": "2026-12-03",
+      "deadline": "2026-12-04",
       "postedDate": "2026-11-25",
       "url": "https://careers.un.org/jobSearchDescription/288960?language=en",
       "tags": [
@@ -17521,7 +17548,7 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "ABU DHABI",
       "continent": "Remote / Global",
-      "deadline": "2026-12-13",
+      "deadline": "2026-12-14",
       "postedDate": "2026-11-26",
       "url": "https://careers.un.org/jobSearchDescription/288986?language=en",
       "tags": [
@@ -17547,13 +17574,39 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Programme & Project",
       "location": "VIENNA",
       "continent": "Europe",
-      "deadline": "2026-12-10",
+      "deadline": "2026-12-11",
       "postedDate": "2026-11-24",
       "url": "https://careers.un.org/jobSearchDescription/289023?language=en",
       "tags": [
         "programme"
       ],
       "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: VIENNA. Title signal: Space4Youth Intern.",
+      "responsibilities": [
+        "Track activities, deliverables, meetings, and programme documentation.",
+        "Support reporting, coordination, note-taking, research, and knowledge management.",
+        "Assist teams with day-to-day implementation and follow-up with partners or colleagues."
+      ],
+      "requirements": [
+        "Strong organization, writing, coordination, and research skills.",
+        "Interest in project/programme management and UN operational workflows.",
+        "Ability to work across teams and keep clear records."
+      ]
+    },
+    {
+      "id": "289086",
+      "title": "CMS Intern (Aquatic Species / Marine Conservation)",
+      "organization": "UN Careers",
+      "source": "UN Careers",
+      "category": "Programme & Project",
+      "location": "BONN",
+      "continent": "Remote / Global",
+      "deadline": "2026-12-21",
+      "postedDate": "2026-11-27",
+      "url": "https://careers.un.org/jobSearchDescription/289086?language=en",
+      "tags": [
+        "programme"
+      ],
+      "summary": "Programme support role involving coordination, documentation, reporting, stakeholder follow-up, and implementation support. Source: UN Careers. Location: BONN. Title signal: CMS Intern (Aquatic Species / Marine Conservation).",
       "responsibilities": [
         "Track activities, deliverables, meetings, and programme documentation.",
         "Support reporting, coordination, note-taking, research, and knowledge management.",
@@ -17781,8 +17834,8 @@ window.UN_MONITOR_JOB_CATALOG = {
       "category": "Communications & Advocacy",
       "location": "Geneva, Switzerland",
       "continent": "Europe",
-      "deadline": "2026-09-15",
-      "postedDate": "2026-08-22",
+      "deadline": "2027-01-08",
+      "postedDate": "2026-11-28",
       "url": "https://jobs.itu.int/job/Geneva-Unpaid-Internship-AI-and-Smart-Sustainable-Cities-Communications-intern/1362095155/",
       "tags": [
         "communications",
@@ -19705,6 +19758,32 @@ window.UN_MONITOR_JOB_CATALOG = {
         "Strong writing, editing, storytelling, and communication skills.",
         "Experience or interest in social media, campaigns, multimedia, or public information.",
         "Ability to adapt messages for different audiences."
+      ]
+    },
+    {
+      "id": "UNDP-38337",
+      "title": "Security Analysis and Operations Intern",
+      "organization": "UNDP",
+      "source": "UNDP",
+      "category": "Admin, Finance & HR",
+      "location": "Panama City, Panama",
+      "continent": "North America",
+      "deadline": "2026-12-11",
+      "postedDate": "2026-06-29",
+      "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38337",
+      "tags": [
+        "finance"
+      ],
+      "summary": "Operations role supporting administration, finance, HR, risk, compliance, audit, procurement, or office workflows. Source: UNDP. Location: Panama City, Panama. Title signal: Security Analysis and Operations Intern.",
+      "responsibilities": [
+        "Support documentation, tracking, and daily operational workflows.",
+        "Assist with finance, HR, administration, risk, compliance, audit, or procurement tasks.",
+        "Prepare records, tables, notes, and process follow-up material."
+      ],
+      "requirements": [
+        "Organization, attention to detail, Excel, and documentation skills.",
+        "Interest in operations, finance, HR, compliance, administration, or procurement.",
+        "Ability to work carefully with procedures and records."
       ]
     },
     {
